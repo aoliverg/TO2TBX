@@ -47,7 +47,10 @@ for event, elem in etree.iterparse(fentrada):
                         termes[llengua].append(escape(termdenomin.lstrip().rstrip()))
                 cadena=[]
                 for l in langs:
-                    cadena.append("|".join(termes[l]))
+                    if l in termes:
+                        cadena.append("|".join(termes[l]))
+                    else:
+                        cadena.append("")
                 sortida.write("\t".join(cadena)+"\n")
                 subject=""
                 term={}

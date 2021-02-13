@@ -1,0 +1,1312 @@
+ß&lt;sub&gt;2&lt;/sub&gt;-microglobulin	β&lt;sub&gt;2&lt;/sub&gt;-microglobulina	β&lt;sub&gt;2&lt;/sub&gt;-microglobulina
+abatacept	abatacept	abatacept
+abetimus	abetimús	abetimús
+arachidonic acid	ácido araquidónico	àcid araquidònic
+mycophenolic acid|MPA	ácido micofenólico|MPA	àcid micofenòlic|MPA
+actinomycin D|dactinomycin	actinomicina D	actinomicina D|dactinomicina
+lymphocyte activation	activación de linfocitos|activación linfocítica	activació limfocitària
+polyclonal activator	activador policlonal	activador policlonal
+adenosine deaminase|ADA	adenosina-desaminasa|ADA	adenosina-desaminasa|ADA
+adalimumab	adalimumab	adalimumab
+antibody-dependent cell-mediated cytotoxicity|antibody-dependent cellular cytotoxicity|ADCC	citotoxicidad celular dependiente de anticuerpos|citotoxicidad mediada por células dependientes de anticuerpos|ADCC	citotoxicitat cel·lular dependent d'anticossos|ADCC
+adenoids|laryngeal tonsil	adenoides|amígdala faríngea	amígdala faríngia|adenoides
+adenopathy|lymphadenopathy	adenopatía|linfadenopatía	limfadenopatia|limfoadenopatia|adenopatia
+immune adherence	adherencia inmunitaria	adherència immunitària
+leukocyte adhesion	adhesión leucocitaria	adhesió leucocitària
+firm leukocyte adhesion	adhesión leucocitaria firme	adhesió leucocitària ferma
+adjuvant	adyuvante	adjuvant
+complete Freund adjuvant	adyuvante completo de Freund	adjuvant complet de Freund
+Freund adjuvant	adyuvante de Freund	adjuvant de Freund
+incomplete Freund adjuvant	adyuvante incompleto de Freund	adjuvant incomplet de Freund
+addressin	adresina|dirigina	adrecina
+affinity	afinidad	afinitat
+functional affinity	afinidad funcional	afinitat funcional
+agammaglobulinemia	agammaglobulinemia	agammaglobulinèmia
+Bruton disease|congenital agammaglobulinemia|X-linked agammaglobulinemia	agammaglobulinemia congénita|agammaglobulinemia ligada a X|enfermedad de Bruton	agammaglobulinèmia lligada a X|agammaglobulinèmia congènita|malaltia de Bruton
+agar|agar-agar|gelose	agar|agar-agar|gelosa	agar-agar|agar|gelosa
+agarose	agarosa	agarosa
+agglutination	aglutinación	aglutinació
+active agglutination|direct agglutination	aglutinación activa|aglutinación directa	aglutinació directa|aglutinació activa
+passive agglutination	aglutinación indirecta|aglutinación pasiva	aglutinació passiva|aglutinació indirecta
+agglutinin	aglutinina	aglutinina
+cold agglutinin|cryoagglutinin	aglutinina fría	crioaglutinina|aglutinina freda
+agglutinogen	aglutinógeno	aglutinogen
+acute post-streptococcal glomerulonephritis|AGN|APSGN	glomerulonefritis postestreptocócica aguda|AGN|GMNPS	glomerulonefritis postestreptocòccica aguda|AGN|GMNPS
+agranulocytosis	agranulocitosis	agranulocitosi
+agretope	agretopo	agrètop
+acute	agudo	agut -uda
+autoimmune hemolytic anemia|AHA	anemia hemolítica autoinmunitaria|AHA	anèmia hemolítica autoimmunitària|AHA
+induced fit		ajustament induït
+alemtuzumab	alemtuzumab	alemtuzumab
+alexin|complement|complement system	alexina|complemento	complement|alexina|sistema del complement
+allele	alelo	al·lel
+allergen	alergeno|alérgeno	al·lergogen|al·lergen
+allergenic	alergeno|alérgeno	al·lergogen -ògena|al·lergen -èrgena
+allergy	alergia	al·lèrgia
+drug allergy	alergia medicamentosa	al·lèrgia medicamentosa|al·lèrgia a fàrmacs
+allergic	alérgico	al·lèrgic -a
+allergic	alérgico	al·lèrgic -a
+allergization	alergización	al·lergització
+alloantibody	aloanticuerpo	al·loanticòs
+alloantigen	aloantígeno	al·loantigen
+alloantiserum	aloantisuero	al·loantisèrum
+allogenic graft|allograft	aloinjerto	al·loempelt|empelt al·logènic
+allophycocyanine|APC	aloficocianina|APC	al·loficocianina|APC
+allogeneic|allogenic	alogénico	al·logènic -a
+allogroup	alogrupo	al·logrup
+alloimmunity	aloinmunidad	al·loimmunitat
+alloimmunization	aloinmunización	al·loimmunització
+allogenic recognition|alloreactivity	alorreactividad|alorreconocimiento|reconocimiento alogénico	al·loreactivitat|reconeixement al·logènic
+allotype	alotipo	al·lotip
+allotypy	alotipia	al·lotípia
+allotypic	alotípico	al·lotípic -a
+allotope|allotypic determinant	alotopo|determinante alotípico	determinant al·lotípic|al·lòtop
+extrinsic allergic alveolitis|hypersensitivity pneumonitis	alveolitis alérgica extrínseca|neumonitis por hipersensibilidad	alveolitis al·lèrgica extrínseca|pneumonitis per hipersensibilitat
+amethopterin|methotrexate	ametopterina|metotrexato	metotrexat|ametopterina|MTX
+tonsil|tonsilla	amígdala|tonsila	amígdala|tonsil·la
+faucial tonsil|palatine tonsil	amígdala palatina	amígdala palatina
+amyloid	amiloide	amiloide
+amyloidosis	amiloidosis	amiloïdosi
+vasoactive amine	amina vasoactiva	amina vasoactiva
+aminopterin	aminopterina	aminopterina
+antinuclear antibody|ANA	anticuerpo antinuclear|ANA	anticòs antinuclear|anticòs contra el nucli|ANA
+anaphylactic	anafiláctico	anafilàctic -a
+anaphylactogen	anafilactógeno	anafilactogen
+anaphylactogenic	anafilactogénico	anafilactogen -ògena
+anaphylactotoxin|anaphylatoxin	anafilactotoxina|anafilatoxina|anafilotoxina	anafilatoxina|anafilotoxina
+anaphylactic reaction|anaphylactic response|anaphylaxis	anafilaxia|reacción anafiláctica|respuesta anafiláctica	anafilaxi|reacció anafilàctica|resposta anafilàctica
+active anaphylaxis	anafilaxia activa	anafilaxi activa
+cytotropic anaphylaxis	anafilaxia citotrópica	anafilaxi citotròpica
+active cutaneous anaphylaxis	anafilaxia cutánea activa	anafilaxi cutània activa
+passive cutaneous anaphylaxis|Prausnitz-Küstner reaction	anafilaxia cutánea pasiva|reacción de Prausnitz-Küstner	anafilaxi cutània passiva|reacció de Prausnitz-Küstner
+inverse anaphylaxis	anafilaxia inversa	anafilaxi inversa
+passive anaphylaxis	anafilaxia pasiva	anafilaxi passiva
+reversed passive anaphylaxis	anafilaxia pasiva inversa	anafilaxi passiva inversa
+aggregate anaphylaxis	anafilaxia agregada	anafilaxi per immunocomplexos
+systemic anaphylaxis	anafilaxia sistémica	anafilaxi sistèmica
+active systemic anaphylaxis	anafilaxia sistémica activa	anafilaxi sistèmica activa
+passive systemic anaphylaxis	anafilaxia sistémica pasiva	anafilaxi sistèmica passiva
+limiting dilution analysis	análisis por dilución límite	anàlisi per dilució límit
+anatoxin|toxoid	anatoxina|toxoide	toxoide|anatoxina
+Waldeyer ring|Waldeyer tonsillar ring	anillo de Waldeyer|anillo linfoide de Waldeyer	anell de Waldeyer|anell limfàtic de Waldeyer
+anaemia|anemia	anemia	anèmia
+pernicious anemia	anemia perniciosa	anèmia perniciosa
+anergy	anergia	anergia
+clonal anergy	anergia clonal	anergia clonal
+hereditary angioedema|hereditary angioneurotic edema	angioedema hereditario|edema angioneurótico hereditario	edema angioneuròtic hereditari|angioedema hereditari
+DiGeorge anomaly|third and fourth arch syndrome|third and fourth pouch syndrome|velo-cardio-facial syndrome|CATCH22	anomalía de DiGeorge|síndrome del tercer y del cuarto arcos faríngeos|síndrome velocardiofacial|CATCH22	anomalia de DiGeorge|síndrome del tercer i del quart arcs faringis|síndrome velocardiofacial|CATCH22
+anti-TNF-α	anti-TNF-α	anti-TNF-α
+antibiotic	antibiótico	antibiòtic
+antibody	anticuerpo	anticòs
+anti-anti-idiotype antibody	anticuerpo anti-antiidiotipo	anticòs antiantiidiotípic|anticòs contra l'antiidiotip
+anti-idiotype antibody	anticuerpo antiidiotipo	anticòs antiidiotípic|anticòs contra l'idiotip
+blocking antibody	anticuerpo bloqueador|anticuerpo bloqueante	anticòs blocant
+cytophilic antibody	anticuerpo citófilo|anticuerpo citotrópico	anticòs citofílic|anticòs citotròpic
+cytolytic antibody	anticuerpo citolítico|anticuerpo citotóxico	anticòs citotòxic|anticòs citolític
+Donath-Landsteiner antibody|Donath-Landsteiner hemolysin	anticuerpo de Donath-Landsteiner	anticòs de Donath-Landsteiner|hemolisina per fred
+Forssman antibody	anticuerpo de Forssman	anticòs de Forssman
+cross-reacting antibody	anticuerpo de reacción cruzada	anticòs de reacció encreuada
+heterologous antibody|heterophile antibody	anticuerpo heterófilo|anticuerpo heterólogo	anticòs heteròleg|anticòs heteròfil
+hybrid antibody	anticuerpo híbrido	anticòs híbrid
+incomplete antibody	anticuerpo incompleto	anticòs incomplet
+isophile antibody	anticuerpo isófilo	anticòs isòfil
+lymphocytotoxic antibody	anticuerpo linfocitotóxico	anticòs limfocitotòxic
+autoreactive lymphocytotoxic antibody	anticuerpo linfocitotóxico autorreactivo	anticòs limfocitotòxic autoreactiu
+monoclonal antibody	anticuerpo monoclonal	anticòs monoclonal|immunoglobulina monoclonal
+humanized monoclonal antibody	anticuerpo monoclonal humanizado	anticòs monoclonal humanitzat
+natural antibody	anticuerpo natural	anticòs natural
+neutralizing antibody	anticuerpo neutralizante	anticòs neutralitzant
+non-precipitating antibody	anticuerpo no precipitante	anticòs no precipitant
+enhancing antibody	anticuerpo potenciador	anticòs potenciador
+precipitating antibody|precipitin	anticuerpo precipitante|precipitina	anticòs precipitant|precipitina
+sensitizing antibody	anticuerpo sensibilizante	anticòs sensibilitzant
+antistreptolysin O|ASLO|ASO	antiestreptolisina O|ASO	antiestreptolisina O|ASLO
+antigen	antígeno	antigen
+tumor-associated antigen	antígeno asociado al tumor|antígeno tumoral	antigen associat al tumor
+carcinoembryonic antigen|CD66e	antígeno carcinoembrionario|CD66e	antigen carcinoembriogènic|CD66e
+histocompatibility antigen|transplantation antigen	antígeno de histocompatibilidad|antígeno de trasplante	antigen d'histocompatibilitat|antigen de trasplantament
+minor histocompatibility antigen	antígeno de histocompatibilidad menor	antigen d'histocompatibilitat menor
+major histocompatibility antigen	antígeno de histocompatibilidad mayor|antígeno de histocompatibilidad principal	antigen d'histocompatibilitat principal
+Chido-Rodgers antigen	antígeno de Chido-Rodgers	antigen de Chido-Rodgers
+differentiation antigen	antígeno de diferenciación	antigen de diferenciació
+Forssman antigen	antígeno de Forssman	antigen de Forssman
+cross-reacting antigen	antígeno de reacción cruzada	antigen de reacció encreuada
+tumor rejection antigen	antígeno de rechazo del tumor	antigen de rebuig tumoral
+T-dependent antigen|thymus-dependent antigen	antígeno T-dependiente|antígeno timodependiente	antigen dependent del timus|antigen timodependent
+dominant antigen	antígeno dominante	antigen dominant
+flagellar antigen|H antigen	antígeno flagelar|antígeno H	antigen flagel·lar|antigen H
+H-Y antigen	antígeno H-Y	antigen H-Y
+heterologous antigen|heterophile antigen	antígeno heterófilo|antígeno heterólogo	antigen heteròleg|antigen heteròfil
+HLA antigen|HLA	antígeno HLA|antígeno leucocitario humano|HLA	antigen HLA|HLA
+Ii antigen	antígeno Ii	antigen Ii
+T-independent antigen|thymus-independent antigen	antígeno independiente del timo|antígeno T-independiente|antígeno timoindependiente	antigen independent del timus|antigen timoindependent
+isoantigen	isoantígeno	isoantigen|antigen isòfil
+leukocyte common antigen|CD45	antígeno leucocitario común|CD45	antigen leucocitari comú|CD45
+oncofetal antigen	antígeno oncofetal	antigen oncofetal
+suppressed antigen	antígeno suprimido	antigen suprimit
+antigenic	antigénico	antigènic -a
+antigenic	antigénico	antigènic -a
+antigenicity	antigenicidad	antigenicitat
+antihistamine	antihistamínico	antihistamínic
+anti-idiotype	antiidiotipo	antiidiotip
+internal image anti-idiotype	antiidiotipo de imagen interna	antiidiotip d'imatge interna
+anti-inflammatory	antiinflamatorio	antiinflamatori
+antineoplastic	antineoplásico	antineoplàstic
+antiserum|immune serum	antisuero|suero inmune	antisèrum|sèrum immune
+monospecific antiserum	antisuero monoespecífico	antisèrum monoespecífic
+polyclonal antiserum	antisuero policlonal	antisèrum policlonal
+polyspecific antiserum	antisuero poliespecífico	antisèrum poliespecífic
+antitoxin	antitoxina	antitoxina
+antivenom	antiveneno	antiverí
+antigen-presenting cell|APC	célula presentadora de antígeno|APC	cèl·lula presentadora d'antigen|APC
+patching	parcheado	apedaçament
+apoptosis	apoptosis	apoptosi|mort cel·lular programada
+rheumatoid arthritis|RA	artritis reumatoide|AR	artritis reumatoide|AR
+cytarabine|cytosine arabinoside|ARA-C	arabinósido de citosina|citarabina|ARA-C	arabinòsid de citosina|citarabina|ARA-C
+precipitin arc	arco de precipitación	arc de precipitació
+cranial arteritis|giant cell arteritis|temporal arteritis	arteritis craneal|arteritis de células gigantes|arteritis temporal	arteritis de cèl·lules gegants|arteritis cranial|arteritis de Horton|arteritis temporal
+aortic arch syndrome|Takayasu arteritis	arteritis de Takayasu|síndrome del arco aórtico	arteritis de Takayasu|síndrome de l'arc aòrtic
+juvenile chronic arthritis|juvenile idiopathic arthritis|juvenile rheumatoid arthritis	artritis crónica juvenil|artritis idiopática juvenil|artritis reumatoide juvenil	artritis idiopàtica juvenil|artritis crònica juvenil|artritis reumatoide juvenil
+adjuvant arthritis	artritis adjuvante	artritis induïda per adjuvant
+collagen induced arthritis	artritis inducida por colágeno	artritis induïda per col·lagen
+ascites	ascitis	ascites
+allergic asthma	asma alérgica	asma al·lèrgica
+allergic aspergillosis|allergic bronchopulmonary aspergillosis	aspergilosis broncopulmonar alérgica	aspergil·losi broncopulmonar al·lèrgica
+chromium release assay	ensayo de liberación de cromo	assaig d'alliberament de crom
+Elispot assay	ensayo de Elispot	assaig d'Elispot
+cytotoxicity assay|cytotoxicity test	ensayo de citotoxicidad|prueba de citotoxicidad	assaig de citotoxicitat
+hemolytic plaque assay|Jerne plaque assay|plaque-forming assay	ensayo de formación de placas|ensayo de placa de Jerne|ensayo de placa hemolítica	assaig de formació de plaques|assaig de plaques de Jerne
+immune assay|immunoassay	inmunoensayo	immunoassaig|assaig immunològic
+immunoradiometric assay|IRMA	ensayo inmunorradiométrico|IRMA	assaig immunoradiomètric|IRMA
+ataxia telangiectasia|ataxia-telangiectasia|Louis-Bar syndrome	ataxia telangiectasia|síndrome de Louis-Bar	atàxia telangièctasi|síndrome de Louis-Bar
+attenuation	atenuación	atenuació
+atopy	atopia|atopía	atòpia
+autoagglutinin	autoaglutinina	autoaglutinina
+autoantibody	autoanticuerpo	autoanticòs
+warm antibody	autoanticuerpo caliente	autoanticòs calent
+cold antibody	autoanticuerpo frío	autoanticòs fred
+autoantigen|self-antigen	autoantígeno	autoantigen
+autograft	autoinjerto	autoempelt
+autoimmune	autoinmunitario	autoimmunitari -ària
+autoimmunity	autoinmunidad	autoimmunitat
+autologous	autólogo	autòleg -òloga
+autoradiography	autorradiografía	autoradiografia
+self-tolerance	autotolerancia	autotolerància
+avidity	avidez	avidesa
+avidin	avidina	avidina
+clonal abortion|clonal deletion	deleción clonal	deleció clonal|avortament clonal
+axenic|germ free	axénico	axènic -a
+azathioprine	azatioprina	azatioprina|AZA
+bacille Calmette-Guérin|bacillus Calmette-Guérin|BCG	bacilo de Calmette-Guérin|BCG	bacil de Calmette-Guérin|BCG
+bactericidin	bactericidina	bacteriocidina
+bacteriolysis	bacteriólisis	bacteriòlisi
+bacteriolysin	bacteriolisina	bacteriolisina
+bronchial-associated lymphoid tissue|bronchus-associated lymphoid tissue|BALT	tejido linfoide asociado a los bronquios|BALT	teixit limfoide associat als bronquis|BALT
+basiliximab	basiliximab	basiliximab
+basophil	basófilo	basòfil
+B-cell growth factor|BCGF	factor de crecimiento de células B|BCGF	factor de creixement dels limfòcits B|BCGF
+B-cell receptor|BCR	receptor de linfocitos B|BCR	receptor dels limfòcits B|BCR
+periarteriolar lymphatic sheath|white pulp|PALS	manguito linfoide periarteriolar|pulpa blanca|vaina linfática periarteriolar|PALS	polpa blanca|beina limfàtica periarteriolar|PALS
+monogamous bivalency	bivalencia monógama	bivalència monògama
+bivalent	bivalente	bivalent
+bursa of Fabricius	bolsa de Fabricio|bursa de Fabricio	bossa de Fabrici
+bradykinin	bradicinina|bradiquinina	bradicinina
+B-cell stimulating factor|BSF	factor estimulador de las células B|BSF	factor estimulador dels limfòcits B|BSF
+amplification loop	bucle de amplificación	bucle d'amplificació
+hole in the repertoire		buit en el repertori
+busulfan	busulfán	busulfan
+c-kit|CD117	c-kit|CD117	c-kit|CD117
+alternative-complement-pathway C3/C5-convertase	C3/C5-convertasa de la vía alternativa del complemento	C3/C5-convertasa de la via alternativa del complement
+classical-complement-pathway C3/C5-convertase	C3/C5-convertasa de la vía clásica del complemento	C3/C5-convertasa de la via clàssica del complement
+C3 nephritic factor|C3NeF|NF	factor nefrítico del C3|C3NeF	factor nefrític del C3|C3NeF
+J chain|joining chain	cadena J	cadena J|cadena d'unió
+H chain|heavy chain	cadena H|cadena pesada	cadena pesant|cadena H
+invariant chain	cadena invariante	cadena invariant
+L chain|light chain	cadena L|cadena ligera	cadena lleugera|cadena L
+kappa light chain|κ light chain	cadena ligera κ|cadena ligera kappa	cadena lleugera kappa|cadena lleugera κ
+lambda light chain|λ light chain	cadena ligera λ|cadena ligera lambda	cadena lleugera lambda|cadena lleugera λ
+surrogate light chain	cadena ligera sustitutiva	cadena lleugera substitutiva
+gamma heavy chain|γ heavy chain	cadena pesada γ	cadena pesant γ
+μ heavy chain|mu heavy chain	cadena pesada μ	cadena pesant μ
+alpha heavy chain|α heavy chain	cadena pesada α	cadena pesant α
+delta heavy chain|δ heavy chain	cadena pesada δ	cadena pesant δ
+epsilon heavy chain|ε heavy chain	cadena pesada ε	cadena pesant ε
+cadherin	cadherina	cadherina
+calcineurin	calcineurina	calcineurina
+kallikrein|kininogenase	calicreína|cininogenasa	cal·licreïna|cal·lidinogenasa|cininogenasa
+kallidin	calidina	cal·lidina
+colostrum	calostro	calostre
+canakinumab	canakinumab	canakinumab
+antigenic shift	cambio antigénico	canvi antigènic
+class switching|heavy-chain class switching|immunoglobulin class switching	cambio de clase	canvi de classe
+buffy coat	capa de leucocitos	capa leucocitària
+antigen-binding capacity	capacidad de unión al antígeno	capacitat d'unió a l'antigen
+capping	formación de casquete|formación de corona	càping
+cachectin|tumor necrosis factor-α|TNF-α	caquectina|factor de necrosis tumoral α|TNF-α	factor de necrosi tumoral α|caquectina|TNF-α
+cascade	cascada	cascada
+caspase	caspasa	caspasa
+cathepsin	catepsina	catepsina
+primary biliary cirrhosis|PBC	cirrosis biliar primaria|CBP	cirrosi biliar primària|CBP
+cluster of differentiation|CD	grupo de diferenciación|CD	grup de diferenciació|CD
+CD3	CD3	CD3
+CD4	CD4	CD4
+CD8	CD8	CD8
+CD19	CD19	CD19
+decay accelerating factor|CD55|DAF	factor acelerador de la degradación|factor acelerador de la descomposición|CD55|DAF	factor accelerador de la degradació|CD55|DAF
+complementarity-determining region|CDR	región determinante de complementariedad|CDR	regió determinant de la complementarietat|CDR
+celiac disease|gluten sensitive enteropathy	enfermedad celíaca|enteropatía por gluten	malaltia celíaca|celiaquia|enteropatia del gluten
+accessory cell	célula accesoria	cèl·lula accessòria
+adherent cell	célula adherente	cèl·lula adherent
+B cell|B lymphocyte	célula B|linfocito B	limfòcit B|cèl·lula B
+B1 B-cell|CD5 B cell	linfocito B CD5|linfocito B1	limfòcit B CD5|cèl·lula B1
+blast cell	célula blástica	cèl·lula blàstica
+K cell|killer cell	célula asesina|célula citocida|célula K	cèl·lula K|cèl·lula citocida
+natural killer cell|NK cell	célula asesina natural|célula citocida natural|célula NK	cèl·lula NK|cèl·lula citocida natural
+cytotoxic cell	célula citotóxica	cèl·lula citotòxica
+Kupffer cell	célula de Kupffer	cèl·lula de Kupffer
+Langerhans cell	célula de Langerhans	cèl·lula de Langerhans
+microglia|microglial cell	célula microglial|microglia|microglía	micròglia|cèl·lula de micròglia
+dendritic cell	célula dendrítica	cèl·lula dendrítica
+follicular dendritic cell	célula dendrítica folicular	cèl·lula dendrítica fol·licular
+interdigitating cell	célula dendrítica interdigitada|célula interdigitada	cèl·lula dendrítica interdigitada
+dermal dendritic cell|interstitial dendritic cell	célula dendrítica intersticial	cèl·lula dendrítica intersticial
+target cell	célula diana	cèl·lula diana
+nurse cell|thymic nurse cell	célula nodriza	cèl·lula dida
+mast cell|mastocyte	célula cebada|mastocito	mastòcit|cèl·lula encebada
+thymic epithelial cell	célula epitelial tímica	cèl·lula epitelial tímica
+epithelioid cell	célula epitelioide	cèl·lula epitelioide
+plaque-forming cell	célula formadora de placas	cèl·lula formadora de plaques
+Langhans giant cell	célula gigante de Langhans	cèl·lula gegant de Langhans
+Reed-Sternberg giant cell	célula gigante de Reed-Sternberg	cèl·lula gegant de Reed-Sternberg
+hybrid cell	célula híbrida	cèl·lula híbrida
+immune competent cell|immunocompetent cell|immunocyte	célula inmunocompetente|inmunocito	cèl·lula immunocompetent|immunòcit
+undifferentiated cell	célula indiferenciada	cèl·lula indiferenciada
+LAK cell|lymphokine-activated killer cell	célula citocida activada por linfoquinas|célula LAK	cèl·lula LAK|cèl·lula K activada per limfocines
+LE cell|lupus erythematosus cell	célula del lupus eritematoso|célula LE	cèl·lula LE
+M cell	célula M	cèl·lula M
+mother cell|stem cell	célula madre	cèl·lula mare
+peripheral blood mononuclear cell|PBMC	célula mononuclear de sangre periférica|PBMC	cèl·lula mononucleada de sang perifèrica|PBMC
+non-adherent cell	célula no adherente	cèl·lula no adherent
+plasma cell|plasmacyte|plasmocyte	célula plasmática|plasmocito	cèl·lula plasmàtica|plasmòcit
+pluripotent cell|pluripotential cell	célula pluripotencial|célula pluripotente	cèl·lula pluripotent
+hematopoietic stem cell	célula pluripotencial hematopoyética	cèl·lula pluripotent hematopoètica
+pre-B cell|pre-B lymphocyte	célula pre-B	cèl·lula pre-B
+pre-T cell|pre-T lymphocyte	célula pre-T	cèl·lula pre-T
+lymphoid cell|lymphoid precursor cell	célula precursora linfoide|precursor linfoide	cèl·lula precursora limfoide|precursor limfoide
+myeloid cell|myeloid precursor cell	célula precursora mieloide|precursor mieloide	cèl·lula precursora mieloide|precursor mieloide
+pro-B cell	célula pro-B	cèl·lula pro-B
+pro-T cell	célula pro-T	cèl·lula pro-T
+sensitized cell	célula sensibilizada	cèl·lula sensibilitzada
+T cell|T lymphocyte|T-cell	célula T|linfocito T	limfòcit T|cèl·lula T
+cytotoxic T lymphocyte|cytotoxic T-cell|killer T-cell	célula T citotóxica|linfocito T citotóxico	limfòcit T citotòxic|cèl·lula T citotòxica
+veil cell|veiled cell	célula en vela|célula velada	cèl·lula veliforme
+germinal centre	centro germinal|centro germinativo	centre germinal
+centroblast	centroblasto	centroblast
+centrocyte	centrocito	centròcit
+certolizumab pegol	certolizumab pegol	certolizumab pegol
+cetuximab	cetuximab	cetuximab
+CH50	CH50	CH50
+cyanocobalamin	cianocobalamina	cianocobalamina
+cyclophilin	ciclofilina	ciclofilina
+cyclophosphamide	ciclofosfamida	ciclofosfamida
+cycloxygenase	ciclooxigenasa	ciclooxigenasa
+cyclosporin A	ciclosporina A	ciclosporina A
+counter current immunoelectrophoresis|counterimmunoelectrophoresis|CIE	contrainmunoelectroforesis|CIE	contraimmunoelectroforesi|immunoelectroforesi inversa|CIE
+cimetidine	cimetidina	cimetidina
+JAK kinase|Janus kinase	cinasa JAK|cinasa Janus|quinasa JAK|quinasa Janus	cinasa JAK|cinasa Janus
+1-phosphatidyl-inositol-3-kinase|PI3-kinase	1-fosfatidilinositol-3-cinasa|PI3 cinasa|PI3 quinasa	1-fosfatidilinositol-3-cinasa|cinasa PI3
+kinin	cinina|quinina	cinina
+kininogen	cininógeno|quininógeno	cininogen
+cytochalasin	citocalasina	citocalasina
+cytokine	citocina|citoquina	citocina
+cytolysis	citólisis	citòlisi
+cytolysin	citolisina	citolisina
+cytolytic	citolítico	citolític -a
+cytostatic|cytostatic agent	citostático	citostàtic
+cytotoxic	citotóxico	citotòxic -a
+cytotoxicity	citotoxicidad	citotoxicitat
+cell-mediated cytotoxicity|cell-mediated destruction	citotoxicidad mediada por células|respuesta celular citotóxica	citotoxicitat cel·lular
+cytotoxin	citotoxina	citotoxina
+immunoglobulin class	clase de inmunoglobulina	classe d'immunoglobulina
+Gell and Coombs classification	clasificación de Gell y Coombs	classificació de Gell i Coombs
+class II-associated invariant chain peptide|CLIP	péptido de cadena invariable asociado a clase II|CLIP	pèptid de cadena invariant associat a les molècules d'histocompatibilitat de classe II|CLIP
+clone	clon	clon
+lymphocyte clon	clon de linfocitos	clon de limfòcits
+cloning	clonación	clonatge
+chlorambucil	clorambucil	clorambucil
+chloroquine	cloroquina	cloroquina
+mixed lymphocyte culture|mixed lymphocyte reaction|MLC	cultivo mixto de linfocitos|reacción linfocítica mixta|CML	cultiu mixt limfocitari|cultiu mixt leucocitari|reacció limfocitària mixta|CML
+co-capping	formación de casquete simultáneo|formación de corona simultánea	cocàping
+coccidioidin	coccidioidina	coccidioïdina
+costimulation	coestimulación	coestimulació
+ulcerative colitis	colitis ulcerosa	colitis ulcerosa
+T-B collaboration	colaboración T-B	col·laboració T-B
+autoimmune systemic disease|connective tissue disease|non-organ-specific autoimmune disease|rheumatic disease	colagenosis|enfermedad autoinmunitaria no específica de órgano|enfermedad autoinmunitaria sistémica	malaltia autoimmunitària sistèmica|col·lagenosi|malaltia autoimmunitària no específica d'òrgan|malaltia autoimmunitària no organoespecífica
+collectin	colectina	col·lectina
+MHC class II compartment	compartimento del MHC de clase II	compartiment de l'MHC de classe II
+antigenic competition	competencia antigénica|competición antigénica	competència antigènica
+antigen-antibody complex	complejo antígeno-anticuerpo	complex antigen-anticòs|complex immunitari
+lytic complex|membrane attack complex|MAC	complejo de ataque a la membrana|MAC	complex d'atac a la membrana|MAC
+minor histocompatibility complex	complejo menor de histocompatibilidad	complex d'histocompatibilitat menor
+major histocompatibility complex|MHC	complejo principal de histocompatibilidad|MHC	complex d'histocompatibilitat principal|MHC
+immune stimulatory complex|immunostimulating complex|ISCOM	complejo estimulador de la inmunidad|ISCOM	complex estimulador de la immunitat|ISCOM
+M-component	componente M	component M|proteïna M
+secretory component|secretory piece	componente secretor|pieza secretora	peça secretòria|component secretori
+concanavalin A|ConA	concanavalina A|ConA	concanavalina A|ConA
+germline configuration	organización de la línea germinal	configuració de la línia germinal
+conglutination	conglutinación	conglutinació
+conglutinin	conglutinina	conglutinina
+conjugate	conjugado	conjugat
+consanguinity	consanguinidad	consanguinitat
+association constant	constante de asociación	constant d'associació|constant d'unió
+equilibrium association constant	constante de asociación en el equilibrio	constant d'associació en l'equilibri
+dissociation constant	constante de disociación	constant de dissociació
+equilibrium dissociation constant	constante de disociación en el equilibrio	constant de dissociació en l'equilibri
+co-precipitation	coprecipitación	coprecipitació
+coproantibody	coproanticuerpo	coproanticòs
+precipitation curve|precipitin curve	curva de precipitación|curva de precipitina	corba de precipitació
+medullary cord	cordón medular	cordó medul·lar
+Hassall corpuscle	corpúsculo de Hassall	corpuscle de Hassall
+accessory molecule|co-receptor	correceptor|molécula accesoria	correceptor|molècula accessòria
+corticosteroid	corticosteroide	corticoesteroide
+complement receptor 1|CR1	receptor de complemento 1|CR1	receptor de complement 1|CR1
+complement receptor 2|CR2	receptor de complemento 2|CR2	receptor de complement 2|CR2
+complement receptor 3|Mac-1|CR3	Mac-1|receptor de complemento 3|CR3	Mac-1|receptor de complement 3|CR3
+complement receptor 4|gp150/95|CR4	gp150/95|receptor de complemento 4|CR4	gp150/95|receptor de complement 4|CR4
+cryoglobulin	crioglobulina	crioglobulina
+cryoglobulinemia	crioglobulinemia	crioglobulinèmia
+essential mixed cryoglobulinemia	crioglobulinemia mixta esencial	crioglobulinèmia mixta essencial
+chromatography	cromatografía	cromatografia
+affinity chromatography	cromatografía de afinidad	cromatografia d'afinitat
+chromone	cromona	cromona
+colony-stimulating factor|CSF	factor estimulador de colonias|CSF	factor estimulador de colònies|CSF
+cutireaction|dermoreaction|skin test	cutirreacción|dermorreacción|prueba cutánea	prova cutània|cutireacció|dermoreacció
+cobra venom factor|CVF	factor del veneno de cobra|CVF	factor del verí de cobra|CVF
+defenses	defensas	defenses
+defensin	defensina	defensina
+ADA deficiency|adenosine deaminase deficiency	déficit de adenosina-desaminasa	deficiència d'adenosina-desaminasa
+leukocyte adhesion deficiency|LAD	deficiencia de adhesión leucocitaria|LAD	deficiència d'adhesió leucocitària|LAD
+IgA deficiency	deficiencia de IgA	deficiència d'IgA
+MHC class I deficiency	deficiencia de MHC clase I	deficiència d'MHC de classe I
+bare lymphocyte syndrome|MHC class II deficiency	deficiencia de MHC clase II|síndrome del linfocito desnudo	deficiència d'MHC de classe II|síndrome del limfòcit nu
+kappa chain deficiency	deficiencia de cadena kappa	deficiència de cadena lleugera kappa
+complement deficiency|hypocomplementemia	deficiencia de complemento|hipocomplementemia	hipocomplementèmia|deficiència de complement
+neutrophil lactoferrin deficiency|specific granule defect	deficiencia de gránulos específicos	deficiència de grànuls específics|deficiència de lactoferrina del neutròfil
+myeloperoxidase deficiency	deficiencia de mieloperoxidasa	deficiència de mieloperoxidasa
+properdin deficiency	deficiencia de properdina	deficiència de properdina
+purine-nucleoside phosphorylase deficiency	deficiencia de purina-nucleósido-fosforilasa	deficiència de purina-nucleòsid-fosforilasa
+transcobalamin II deficiency	deficiencia de transcobalamina II	deficiència de transcobalamina II
+IgG subclass deficiency	deficiencia selectiva de subclases de IgG	deficiència selectiva de subclasses d'IgG
+denileukin diftitox	denileukina diftitox	denileukina diftitox
+antigen clearance|immune clearance	depuración inmunitaria	depuració immunitària
+antigenic drift|antigenic variation	deriva antigénica|variación antigénica	deriva antigènica
+purified protein derivative|PPD	derivado proteico purificado|PPD	derivat proteic purificat|PPD
+allergic dermatitis	dermatitis alérgica	dermatitis al·lèrgica
+allergic contact dermatitis|contact hipersensitivity	dermatitis de contacto|dermatitis por contacto|hipersensibilidad de contacto	dermatitis al·lèrgica de contacte|hipersensibilitat de contacte
+atopic dermatitis|atopic eczema	dermatitis atópica|eccema atópico	dermatitis atòpica|èczema atòpic
+dermatomyositis	dermatomiositis	dermatomiositis|dermatomiïtis
+linkage disequilibrium	desequilibrio de enlace|desequilibrio de ligamiento	desequilibri de lligament
+desetope	desetopo	desètop
+degranulation	desgranulación	desgranulació
+desensitization|hyposensitization	desensibilización	dessensibilització|hiposensibilització
+oxygen-dependent killing	destrucción celular dependiente de oxígeno	destrucció cel·lular dependent d'oxigen
+complement deviation	desviación del complemento	desviació del complement
+immune deviation	desviación inmunitaria|desvío inmunitario	desviació immunitària
+antigenic determinant|epitope	determinante antigénico|epítopo	determinant antigènic|epítop
+conformation-dependent determinant|conformational determinant	determinante configuracional|determinante conformacional	determinant conformacional|determinant configuracional
+idiotope|idiotypic determinant	determinante idiotípico|idiotopo	determinant idiotípic|idiòtop
+private idiotypic determinant	determinante idiotípico privado	determinant idiotípic privat
+cross-reacting idiotype|public idiotypic determinant	determinante idiotípico público|idiotipo de reacción cruzada	determinant idiotípic públic
+isoallotypic determinant	determinante isoalotípico	determinant isoal·lotípic
+isotope|isotypic determinant	determinante isotípico|isotopo	determinant isotípic|isòtop
+sequential determinant	determinante secuencial	determinant seqüencial
+type 1 diabetes mellitus|IDDM	diabetes mellitus de tipo 1|DMID	diabetis mellitus de tipus 1 [mellitus: la]|diabetis mellitus insulinodependent [mellitus: la]|DMID
+equilibrium dialysis	diálisis de equilibrio|diálisis por equilibrio	diàlisi d'equilibri
+mammalian target of rapamycin|mTOR	mTOR	mTOR|diana de la rapamicina en mamífers
+diapedesis	diapedesis	diapedesi
+limiting dilution	dilución límite	dilució límit
+dinitrophenyl|DNP	dinitrofenil|DNP	dinitrofenil|DNP
+De Vaal disease|reticular dysgenesis	disgénesis reticular|enfermedad de De Vaal	disgènesi reticular|malaltia de De Vaal
+Sips distribution	distribución de Sips	distribució de Sips
+combinatorial diversity	diversidad combinatoria	diversitat combinatòria
+junctional diversity	diversidad de unión	diversitat d'unió
+reverse transcriptase|RNA-directed DNA polymerase	ADN-polimerasa dirigida por ARN|transcriptasa inversa	DNA-polimerasa dirigida per RNA|transcriptasa inversa
+domain	dominio	domini
+domain|immunoglobulin domain	dominio|dominio inmunoglobulínico	domini immunoglobulínic|domini
+C domain|C region|constant region	dominio C|región C|región constante	regió constant|domini C|regió C
+C&lt;sub&gt;λ&lt;/sub&gt; domain|C&lt;sub&gt;λ&lt;/sub&gt; region	dominio C&lt;sub&gt;λ&lt;/sub&gt;|región C&lt;sub&gt;λ&lt;/sub&gt;	regió C&lt;sub&gt;λ&lt;/sub&gt;|domini C&lt;sub&gt;λ&lt;/sub&gt;
+C&lt;sub&gt;κ&lt;/sub&gt; domain|C&lt;sub&gt;κ&lt;/sub&gt; region	dominio C&lt;sub&gt;κ&lt;/sub&gt;|región C&lt;sub&gt;κ&lt;/sub&gt;	regió C&lt;sub&gt;κ&lt;/sub&gt;|domini C&lt;sub&gt;κ&lt;/sub&gt;
+C&lt;sub&gt;H&lt;/sub&gt; domain|C&lt;sub&gt;H&lt;/sub&gt; region	dominio C&lt;sub&gt;H&lt;/sub&gt;|región C&lt;sub&gt;H&lt;/sub&gt;	regió C&lt;sub&gt;H&lt;/sub&gt;|domini C&lt;sub&gt;H&lt;/sub&gt;
+C&lt;sub&gt;L&lt;/sub&gt; domain|C&lt;sub&gt;L&lt;/sub&gt; region	dominio C&lt;sub&gt;L&lt;/sub&gt;|región C&lt;sub&gt;L&lt;/sub&gt;	regió C&lt;sub&gt;L&lt;/sub&gt;|domini C&lt;sub&gt;L&lt;/sub&gt;
+V domain|V region|variable region	dominio V|región V|región variable	regió variable|domini V|regió V
+V&lt;sub&gt;κ&lt;/sub&gt; domain|V&lt;sub&gt;κ&lt;/sub&gt; region	dominio V&lt;sub&gt;κ&lt;/sub&gt;|región V&lt;sub&gt;κ&lt;/sub&gt;	regió V&lt;sub&gt;κ&lt;/sub&gt;|domini V&lt;sub&gt;κ&lt;/sub&gt;
+V&lt;sub&gt;λ&lt;/sub&gt; domain|V&lt;sub&gt;λ&lt;/sub&gt; region	dominio V&lt;sub&gt;λ&lt;/sub&gt;|región V&lt;sub&gt;λ&lt;/sub&gt;	regió V&lt;sub&gt;λ&lt;/sub&gt;|domini V&lt;sub&gt;λ&lt;/sub&gt;
+V&lt;sub&gt;H&lt;/sub&gt; domain|V&lt;sub&gt;H&lt;/sub&gt; region	dominio V&lt;sub&gt;H&lt;/sub&gt;|región V&lt;sub&gt;H&lt;/sub&gt;	regió V&lt;sub&gt;H&lt;/sub&gt;|domini V&lt;sub&gt;H&lt;/sub&gt;
+V&lt;sub&gt;L&lt;/sub&gt; domain|V&lt;sub&gt;L&lt;/sub&gt; region	dominio V&lt;sub&gt;L&lt;/sub&gt;|región V&lt;sub&gt;L&lt;/sub&gt;	regió V&lt;sub&gt;L&lt;/sub&gt;|domini V&lt;sub&gt;L&lt;/sub&gt;
+donor	donante	donant|donador|donadora
+booster|booster dose	dosis de refuerzo	dosi de record
+delayed hypersensitivity|delayed-type hypersensitivity|type IV hypersensitivity|DTH	hipersensibilidad de tipo IV|hipersensibilidad retardada|DTH|HR	hipersensibilitat retardada|hipersensibilitat de tipus IV|DTH
+experimental allergic encephalomyelitis|EAE	encefalomielitis alérgica experimental|EAE	encefalomielitis al·lèrgica experimental|encefalomielitis autoimmunitària experimental|EAE
+eculizumab	eculizumab	eculizumab
+eczema vaccinatum	eccema vacunal	èczema vaccínic
+receptor editing	edición del receptor	edició del receptor
+edrecolomab	edrecolomab	edrecolomab
+efalizumab	efalizumab	efalizumab
+carrier effect	efecto del portador	efecte del transportador
+effector	efector	efector -a
+immune effector	efector inmunitario	efector immunitari
+efungumab	efungumab	efungumab
+electrophoresis	electroforesis	electroforesi
+pulsed field gel electrophoresis|pulsed field gradient gel electrophoresis	electroforesis en gel con campo pulsado	electroforesi de camp polsant
+gel electrophoresis	electroforesis en gel	electroforesi en gel
+polyacrylamide gel electrophoresis|PAGE	electroforesis en gel de poliacrilamida|PAGE	electroforesi en gel de poliacrilamida|PAGE
+sodium dodecyl sulphate polyacrylamide gel electrophoresis|SDS-PAGE	electroforesis en gel de poliacrilamida con dodecilsulfatosódico|SDS-PAGE	electroforesi en gel de poliacrilamida amb dodecilsulfat sòdic|SDS-PAGE
+electroimmunodiffusion	electroinmunodifusión	electroimmunodifusió
+electroporation	electroporación	electroporació
+enzyme-linked immunosorbent assay|ELISA	análisis de inmunoabsorción ligado a enzimas|inmunoensayo enzimático sobre fase sólida|ELISA	enzimoimmunoassaig sobre fase sòlida|ELISA
+sandwich ELISA|sandwich enzyme-linked immunosorbent assay|SELISA	ELISA en sándwich	ELISA en sandvitx
+elsilimomab	elsilimomab	elsilimomab
+enzyme-multiplied immunoassay technique|homogenous enzyme assay|EMIT	inmunoensayo enzimático homogéneo|EMIT	immunoassaig d'enzim homogeni|EMIT
+graft|transplant	injerto	empelt
+avascular graft|white graft	injerto avascular|injerto blanco	empelt blanc|empelt avascular
+isogenic graft|isograft|syngenic graft	isoinjerto|trasplante isogénico|trasplante singénico	isoempelt|empelt isogènic|empelt singènic
+genetic fingerprint	huella dactilar|impresión dactilar	empremta genètica
+acute disseminated encephalomyelitis	encefalomielitis diseminada aguda	encefalomielitis disseminada aguda
+endocytosis	endocitosis	endocitosi
+endosome	endosoma	endosoma
+endotoxin	endotoxina	endotoxina
+isoelectric focusing|IEF	enfoque isoeléctrico|isoelectroenfoque|IEF	enfocament isoelèctric|isoelectroenfocament|IEF
+Crohn disease|regional enteritis|segmental enteritis	enfermedad de Crohn|enteritis regional|enteritis segmentaria	malaltia de Crohn|enteritis regional|enteritis segmentària
+cross-linking|crossing	entrecruzamiento	entrecreuament
+enzyme immunoassay	inmunoensayo enzimático	enzimoimmunoassaig
+eosinophil	eosinófilo	eosinòfil
+eosinophilia	eosinofilia	eosinofília
+eotaxine	eotaxina	eotaxina
+epratuzumab	epratuzumab	epratuzumab
+equivalence|optimal proportion	equivalencia	equivalència
+erythema nodosum	eritema nodoso|eritema nudoso	eritema nodós
+erythroblastosis fetalis|erythroblastosis neonatorum|hemolytic disease of the newborn|hemorrhagic disease of the newborn	enfermedad hemolítica del neonato|enfermedad hemolítica del recién nacido|eritroblastosis fetal|eritroblastosis neonatal	eritroblastosi fetal|eritroblastosi neonatal|malaltia hemolítica dels nadons
+erythrocyte|red blood cell	eritrocito|glóbulo rojo|hematíe	eritròcit|glòbul vermell|hematia
+erythrocytolysis|erythrolysis|hemolysis	eritrocitólisis|eritrólisis|hemólisis	hemòlisi|eritrocitòlisi|eritròlisi
+metabolic burst|oxydative burst|respiratory burst	estallido respiratorio|explosión respiratoria	esclat oxidatiu|esclat respiratori
+systemic scleroderma|systemic sclerosis	esclerodermia sistémica|esclerosis sistémica	esclerodèrmia sistèmica|esclerosi sistèmica
+multiple sclerosis	esclerosis en placas|esclerosis múltiple	esclerosi múltiple|esclerosi en plaques
+cortex thymi|thymic cortex	corteza del timo	escorça tímica
+specificity	especificidad	especificitat
+private specificity	especificidad privada	especificitat privada
+public specificity	especificidad pública	especificitat pública
+spectrotype	espectrotipo	espectrotip
+ankylosing spondylitis	espondilitis anquilosante	espondilitis anquilosant
+animal house	animalario|estabulario	estabulari
+phorbol ester	éster de forbol	èster de forbol
+LATS	LATS	LATS|estimulant tiroidal d'acció prolongada
+streptolysin O	estreptolisina O	estreptolisina O
+stroma	estroma	estroma
+etanercept	etanercept	etanercept
+euglobulin	euglobulina	euglobulina
+immunological escape	evasión inmunitaria	evasió immunitària
+everolimus	everolimús	everolimús
+antibody excess	exceso de anticuerpo	excés d'anticòs
+antigen excess	exceso de antígeno	excés d'antigen
+allelic exclusion	exclusión alélica	exclusió al·lèlica
+clonal exhaustion	extenuación clonal	exhauriment clonal
+exocytosis	exocitosis	exocitosi
+exotoxin	exotoxina	exotoxina
+clonal expansion	expansión clonal	expansió clonal
+exchange transfusion	exsanguinotransfusión	exsanguinotransfusió
+fluorescence quenching	extinción de fluorescencia	extinció de fluorescència
+extravasation	extravasación	extravasació
+factor	factor	factor
+complement factor|factor	factor|factor del complemento	factor del complement|factor
+osteoclast-activating factor	factor activador de osteoclastos	factor activador d'osteoclasts
+platelet-activating factor|PAF	factor activador de plaquetas|PAF	factor activador de plaquetes|PAF
+T-cell growth factor|TCGF	factor de crecimiento de células T|TCGF	factor de creixement dels limfòcits T|TCGF
+c-kit ligand|stem cell factor|SCF	factor de las células madre|ligando del c-kit|SCF	lligand de c-kit|factor de les cèl·lules mare|SCF
+tumor necrosis factor|TNF	factor de necrosis tumoral|TNF	factor de necrosi tumoral|TNF
+lymphocytotoxin|lymphotoxin|tumor necrosis factor-β|LT|TNF-β	factor de necrosis tumoral β|linfotoxina|LT|TNF-β	factor de necrosi tumoral β|limfotoxina|LT|TNF-β
+vascular permeability factor	factor de permeabilidad capilar	factor de permeabilitat vascular
+transfer factor	factor de transferencia	factor de transferència
+complement factor B	factor del complemento B	factor del complement B
+complement factor D	factor del complemento D	factor del complement D
+complement factor H	factor del complemento H	factor del complement H
+complement factor I	factor del complemento I	factor del complement I
+complement factor P|properdin	factor del complemento P|properdina	properdina|factor del complement P
+macrophage migration inhibitory factor|migration inhibitory factor|MIF	factor inhibidor de la migración de los macrófagos|MIF	factor inhibidor de la migració dels macròfags|MIF
+ilodecakin	ilodecakina	ilodecakina|factor inhibidor de la síntesi de citocines|IL-10
+paracrine factor	factor paracrino	factor paracrí
+rheumatoid factor	factor reumatoide	factor reumatoidal
+phagocyte	fagocito	fagòcit
+phagocytosis	fagocitosis	fagocitosi
+heterophagosome|phagolysosome	fagolisosoma|heterofagosoma	fagolisosoma|heterofagosoma
+phagocytic vesicle|phagosome	fagosoma|vesícula de fagocitosis|vesícula fagocítica	fagosoma|vesícula de fagocitosi
+hay fever|seasonal allergic rhinitis	fiebre del heno|rinitis alérgica estacional	rinitis al·lèrgica estacional|febre del fenc
+glandular fever|infectious mononucleosis	fiebre glandular|mononucleosis infecciosa	mononucleosi infecciosa|febre glandular
+rheumatic fever	fiebre reumática	febre reumàtica
+Danysz phenomenon	fenómeno de Danysz	fenomen de Danysz
+Pfeiffer phenomenon	fenómeno de Pfeiffer	fenomen de Pfeiffer
+Raynaud phenomenon	fenómeno de Raynaud	fenomen de Raynaud
+α-fetoprotein|α-foetoprotein	α-fetoproteína	α-fetoproteïna
+fibroblast	fibroblasto	fibroblast
+fibrocyte	fibrocito	fibròcit
+fibronectin	fibronectina	fibronectina
+phycoerythrin|PE	ficoeritrina|PE	ficoeritrina|PE
+fingolimod	fingolimod	fingolimod
+fluorescein isothiocyanate|FITC	isotiocianato de fluoresceína|FITC	isotiocianat de fluoresceïna|FITC
+phytohemagglutinin	fitohemaglutinina	fitohemoaglutinina
+complement fixation	fijación de complemento	fixació de complement
+tacrolimus|FK506	tacrolimo|tacrolimus|FK506	tacrolimús|FK506
+FKBP	FKBP	FKBP
+flagellin	flagelina	flagel·lina
+flocculation	floculación	floculació
+fluorescein	fluoresceína	fluoresceïna
+fluorochrome	fluorocromo	fluorocrom
+fluorography	fluorografía	fluorografia
+lymphoid follicle	folículo linfático|folículo linfoide	fol·licle limfoide|fol·licle limfàtic
+primary follicle|primary lymphoid follicle	folículo linfoide primario|folículo primario	fol·licle limfoide primari
+secondary follicle|secondary lymphoid follicle	folículo linfoide secundario	fol·licle limfoide secundari
+alkaline phosphatase	fosfatasa alcalina	fosfatasa alcalina
+F(ab')&lt;sub&gt;2&lt;/sub&gt; fragment	fragmento F(ab')&lt;sub&gt;2&lt;/sub&gt;	fragment F(ab')&lt;sub&gt;2&lt;/sub&gt;
+antigen-binding fragment|Fab fragment|Fab piece	fragmento Fab	fragment Fab
+Fab' fragment	fragmento Fab'	fragment Fab'
+Fc fragment|Fc piece	fragmento Fc	fragment Fc
+Fc' fragment	fragmento Fc'	fragment Fc'
+Fd fragment|Fd piece	fragmento Fd	fragment Fd
+Fd' fragment|Fd' piece	fragmento Fd'	fragment Fd'
+fragmentin|granzyme	fragmentina|granzima	fragmentina|granzim
+effector function	función efectora	funció efectora
+fyn	fyn	fyn
+gut-associated lymphoid tissue|GALT	tejido linfoide asociado al intestino|GALT	teixit limfoide associat a l'intestí|GALT
+gamma globulin|gammaglobulin|γ-globulin	gammaglobulina|γ-globulina	γ-globulina|gammaglobulina|globulina γ
+gammopathy	gammapatía	gammapatia
+monoclonal gammopathy	gammapatía monoclonal	gammapatia monoclonal
+polyclonal gammopathy	gammapatía policlonal	gammapatia policlonal
+lymph node	ganglio linfático|nódulo linfático	gangli limfàtic|node limfàtic|nòdul limfàtic
+autoimmune gastritis	gastritis autoinmunitaria|gastritis crónica atrófica	gastritis autoimmunitària|gastritis crònica atròfica
+experimental autoimmune gastritis	gastritis autoinmunitaria experimental	gastritis autoimmunitària experimental
+gavilimomab	gavilimomab	gavilimomab
+gemtuzumab	gemtuzumab	gemtuzumab
+recombination activating gene|RAG	gen activador de la recombinación|RAG	gen activador de la recombinació|RAG
+BCL-2 gene	gen BCL-2	gen BCL-2
+C gene|C gene segment	gen C|segmento génico C	segment gènic C|segment gènic constant|gen C
+D gene|D gene segment	gen D|segmento génico D	segment gènic D|gen D|segment gènic de diversitat
+histocompatibility gene	gen de histocompatibilidad	gen d'histocompatibilitat
+immune response gene|Ir gene	gen de respuesta inmunitaria|gen Ir	gen de resposta immunitària|gen Ir
+J gene|J gene segment	gen J|segmento génico J	segment gènic J|gen J|segment gènic d'unió
+V gene|V gene segment|variable gene segment	gen V|segmento génico V|segmento génico variable	segment gènic V|gen V|segment gènic variable
+glia|neuroglia	glía|neuroglia|neuroglía	neuròglia|glia
+glycosyl-phosphatidyl-inositol|GPI	glicosilfosfatidilinositol|GPI	glicosilfosfatidilinositol|GPI
+leucocyte|leukocyte|white blood cell	glóbulo blanco|leucocito	leucòcit|glòbul blanc
+globulin	globulina	globulina
+antilymphocyte globulin	globulina antilinfocítica	globulina antilimfocitària
+specific gammaglobulin	gammaglobulina específica	γ-globulina específica
+glomerulonephritis	glomerulonefritis	glomerulonefritis
+Berger disease|IgA glomerulonephritis|IgA nephropathy	enfermedad de Berger|glomerulonefritis por IgA|nefropatía por IgA	glomerulonefritis idiopàtica per IgA|malaltia de Berger|nefropatia per immunoglobulina A
+membranoproliferative glomerulonephritis	glomerulonefritis membranoproliferativa	glomerulonefritis membranoproliferativa
+GlyCAM-1	GlyCAM-1	GlyCAM-1
+GM-CSF	GM-CSF	GM-CSF
+golimumab	golimumab	golimumab
+Wu-Kabat plot	representación de Wu-Kabat	representació de Wu-Kabat|gràfic de Wu-Kabat
+granule	gránulo	grànul
+Birbeck granule	gránulo de Birbeck	grànul de Birbeck
+secondary granule|specific granule	gránulo secundario	grànul específic|grànul secundari
+primary granule	gránulo primario	grànul primari
+tertiary granule	gránulo terciario	grànul terciari
+granulocyte|polymorph|polymorphonuclear leukocyte	granulocito	granulòcit
+granulocytopenia	granulocitopenia	granulocitopènia
+granuloma	granuloma	granuloma
+adjuvant granuloma	granuloma adyuvante	granuloma induït per adjuvant
+granulomatous	granulomatoso	granulomatós -osa
+allergic granulomatosis		granulomatosi al·lèrgica
+Wegener granulomatosis	granulomatosis de Wegener	granulomatosi de Wegener
+blood group	grupo sanguíneo	grup sanguini
+haplotype	haplotipo	haplotip
+extended haplotype	haplotipo extendido	haplotip estès
+hapten	hapteno	haptè
+haptotaxis	haptotaxia	haptotaxi
+hemagglutinin	hemaglutinina	hemoaglutinina|hemaglutinina
+hematopoiesis|hemopoiesis	hemapoyesis|hematopoyesis	hematopoesi|hemapoesi|hemopoesi
+hemagglutination	hemaglutinación	hemoaglutinació
+passive hemagglutination	hemaglutinación pasiva	hemoaglutinació passiva
+paroxysmal cold hemoglobinuria	hemoglobinuria paroxística por frío	hemoglobinúria paroxismal per fred
+immune hemolysis	hemólisis inmunitaria	hemòlisi immunitària
+passive hemolysis	hemólisis pasiva	hemòlisi passiva
+hemolysin	hemolisina	hemolisina
+autoimmune hepatitis|chronic active hepatitis	hepatitis autoinmunitaria|hepatitis crónica activa	hepatitis autoimmunitària
+Epstein-Barr virus|human herpesvirus 4|EBV|HHV-4	virus de Epstein-Barr|VEB	herpesvirus humà 4|virus d'Epstein-Barr|VEB
+heteroantibody	heteroanticuerpo	heteroanticòs
+heterograft|xenograft	heteroinjerto|xenoinjerto	xenoempelt|heteroempelt
+heterologous	heterólogo	heteròleg -òloga
+heterotopy	heterotopía	heterotòpia
+high endotelium venule|high endothelial venule|HEV	vénula de endotelio alto|HEV	vènula d'endoteli alt|HEV
+in situ hybridization	hibridación in situ	hibridació in situ
+hybridoma	hibridoma	hibridoma
+B-cell hybridoma	hibridoma de linfocitos B	hibridoma de limfòcits B
+T-cell hybridoma	hibridoma de linfocitos T	hibridoma de limfòcits T
+hydroxychloroquine	hidroxicloroquina	hidroxicloroquina
+5-hydroxytryptamine|serotonin	5-hidroxitriptamina|serotonina	serotonina|5-hidroxitriptamina
+hypergammaglobulinemia	hipergammaglobulinemia	hipergammaglobulinèmia
+hyperglobulinemia	hiperglobulinemia	hiperglobulinèmia
+purpura hyperglobulinemia	hiperglobulinemia purpúrea	hiperglobulinèmia purpúria
+hyperimmune	hiperinmune	hiperimmune
+hyperimmunity	hiperinmunidad	hiperimmunitat
+somatic hypermutation	hipermutación somática	hipermutació somàtica
+hypersensitivity	hipersensibilidad	hipersensibilitat
+immediate hypersensitivity|type I hypersensitivity	hipersensibilidad de tipo I|hipersensibilidad inmediata	hipersensibilitat immediata|hipersensibilitat de tipus I
+type II hypersensitivity	hipersensibilidad de tipo II	hipersensibilitat de tipus II
+type III hypersensitivity	hipersensibilidad de tipo III	hipersensibilitat de tipus III
+hypogammaglobulinemia	hipogammaglobulinemia	hipogammaglobulinèmia
+transient hypogammaglobulinemia of infancy	hipogammaglobulinemia transitoria de la infancia	hipogammaglobulinèmia transitòria de la infantesa
+histamine	histamina	histamina
+histaminase	histaminasa	histaminasa
+histiocyte	histiocito	histiòcit
+histocompatibility	histocompatibilidad	histocompatibilitat
+histoincompatibility	histoincompatibilidad	histoincompatibilitat
+histotope	histotopo	històtop
+HLA-DM	HLA-DM	HLA-DM
+thymic hormone	hormona tímica	hormona tímica
+donee|host|recipient	huésped|receptor	receptor|hoste
+humanization	humanización	humanització
+HUVEC	HUVEC	HUVEC
+ICAM	ICAM	ICAM
+eicosanoid	eicosanoide	icosanoide
+idiopathy	idiopatía	idiopatia
+idiotype	idiotipo	idiotip
+dominant idiotype	idiotipo dominante	idiotip dominant
+recurrent idiotype	idiotipo recurrente	idiotip recurrent
+immunoelectrophoresis|IE	inmunoelectroforesis|IE	immunoelectroforesi|IE
+interferon-β|interferon-beta|IFN-β	interferón β|IFN-β	interferó β|IFN-β
+interferon-γ|interferon-gamma|type II interferon|IFN-γ	interferón γ|interferón de tipo II|IFN-γ	interferó γ|interferó de tipus II|IFN-γ
+interferon-α|interferon-alpha|IFN-α	interferón α|IFN-α	interferó α|IFN-α
+immunoglobulin|Ig	inmunoglobulina|Ig	immunoglobulina|Ig
+immunoglobulin A|IgA	inmunoglobulina A|IgA	immunoglobulina A|IgA
+immunoglobulin D|IgD	inmunoglobulina D|IgD	immunoglobulina D|IgD
+immunoglobulin E|IgE	inmunoglobulina E|IgE	immunoglobulina E|IgE
+immunoglobulin G|IgG	inmunoglobulina G|IgG	immunoglobulina G|IgG
+immunoglobulin M|IgM	inmunoglobulina M|IgM	immunoglobulina M|IgM
+imatinib	imatinib	imatinib
+imiquimod	imiquimod	imiquimod
+immune	inmune	immune
+immune	inmunitario	immunitari -ària
+immunity	inmunidad	immunitat
+active immunity	inmunidad activa	immunitat activa
+acquired immunity|adaptive immunity	inmunidad adaptativa|inmunidad adquirida	immunitat adaptativa|immunitat adquirida
+adoptive immunity	inmunidad adoptiva	immunitat adoptiva
+cell-mediated immunity|cellular immunity	inmunidad celular|inmunidad mediada por células	immunitat cel·lular
+community immunity|herd immunity	inmunidad de comunidad|inmunidad de grupo	immunitat de grup|immunitat de comunitat
+specific immunity	inmunidad específica	immunitat específica
+humoral immunity	inmunidad humoral	immunitat humoral
+innate immunity|native immunity|natural immunity	inmunidad innata|inmunidad natural	immunitat innata|immunitat natural
+local immunity	inmunidad local	immunitat local
+neonatal immunity	inmunidad neonatal	immunitat neonatal
+passive immunity	inmunidad pasiva	immunitat passiva
+tumor immunity	inmunidad tumoral	immunitat tumoral
+immunization	inmunización	immunització
+active immunization	inmunización activa	immunització activa
+genetic immunization	inmunización genética	immunització genètica
+passive immunization	inmunización pasiva	immunització passiva
+primary immunization	inmunización primaria	immunització primària
+secondary immunization	inmunización secundaria	immunització secundària
+immunoabsorbent|immunosorbent	inmunoabsorbente|inmunosorbente	immunosorbent|immunoabsorbent
+immunoadsorbent	inmunoadsorbente	immunoadsorbent
+immunoadsorption	inmunoadsorción	immunoadsorció
+immunocompetence	inmunocompetencia	immunocompetència
+immune complex	complejo inmunitario|inmunocomplejo	immunocomplex
+immunoconglutination	inmunoconglutinación	immunoconglutinació
+immunoconglutinin	inmunoconglutinina	immunoconglutinina
+immunodeficiency	inmunodeficiencia	immunodeficiència
+acquired immunodeficiency|secondary immunodeficiency	inmunodeficiencia adquirida|inmunodeficiencia secundaria	immunodeficiència secundària|immunodeficiència adquirida
+albinism immunodeficiency|Griscelli syndrome|partial albinism with immunodeficiency	inmunodeficiencia con albinismo parcial|síndrome de Griscelli	síndrome de Griscelli|immunodeficiència amb albinisme parcial
+immunodeficiency with thymoma	inmunodeficiencia con timoma	immunodeficiència amb timoma|síndrome de Good
+immunodeficiency with thrombocytopenia|Wiskott-Aldrich syndrome	síndrome de Wiskott-Aldrich	síndrome de Wiskott-Aldrich|immunodeficiència amb trombocitopènia
+combined immunodeficiency	inmunodeficiencia combinada	immunodeficiència combinada
+severe combined immunodeficiency|SCID	inmunodeficiencia combinada grave|SCID	immunodeficiència combinada greu|SCID
+acquired agammaglobulinemia|common variable immunodeficiency	agammaglobulinemia adquirida|inmunodeficiencia variable común	immunodeficiència comuna variable
+primary immunodeficiency	inmunodeficiencia primaria	immunodeficiència primària|immunodeficiència congènita
+immunodepression	inmunodepresión	immunodepressió
+immunodiffusion	inmunodifusión	immunodifusió
+double immunodiffusion	inmunodifusión doble	immunodifusió doble
+radial immunodiffusion	inmunodifusión radial	immunodifusió radial
+single immunodiffusion	inmunodifusión simple	immunodifusió simple
+crossed immunoelectrophoresis|two-dimensional electrophoresis|two-dimensional gel electrophoresis	inmunoelectroforesis bidimensional|inmunoelectroforesis cruzada	immunoelectroforesi bidimensional|immunoelectroforesi encreuada
+Laurell technique|rocket immunoelectrophoresis	inmunoelectroforesis en cohete|inmunoelectroforesis en cono	immunoelectroforesi de puntes|immunoelectroforesi de Laurell
+immunoelectroblotting	inmunoelectrotransferencia	immunoelectrotransferència
+immunophilin	inmunofilina	immunofilina
+immunofixation	inmunofijación	immunofixació
+immunofluorescence	inmunofluorescencia	immunofluorescència
+direct fluorescent antibody technique|direct immunofluorescence	inmunofluorescencia directa	immunofluorescència directa
+indirect fluorescent antibody technique|indirect immunofluorescence	inmunofluorescencia indirecta|inmunofluorescencia por doble anticuerpo	immunofluorescència indirecta
+immunogen	inmunógeno	immunogen
+immunogenic	inmunogénico	immunogen -ògena
+immunogenetics	inmunogenética	immunogenètica
+immunogenicity	inmunogenicidad	immunogenicitat
+secretory immunoglobulin A	inmunoglobulina A secretora	immunoglobulina A secretòria
+membrane immunoglobulin	inmunoglobulina de membrana	immunoglobulina de membrana
+secreted immunoglobulin	inmunoglobulina secretada	immunoglobulina secretada
+immunohistochemistry	inmunohistoquímica	immunohistoquímica
+immunoincompetence	inmunoincompetencia	immunoincompetència
+immunologist	inmunólogo	immunòleg|immunòloga
+immunology	inmunología	immunologia
+immunologic|immunological	inmunológico	immunològic -a
+immunomodulation	inmunomodulación	immunomodulació
+immunopathology	inmunopatología	immunopatologia
+immunopotentiation	inmunopotenciación	immunopotenciació
+immunoprecipitation	inmunoprecipitación	immunoprecipitació
+immunoprophylaxis	inmunoprofilaxia|inmunoprofilaxis	immunoprofilaxi
+immunoreceptor	inmunorreceptor	immunoreceptor|receptor immunitari
+immunoregulation	inmunorregulación	immunoregulació
+immunosuppression	inmunosupresión	immunosupressió
+monoclonal antibody immunosuppression	immunosupresión con anticuerpos monoclonales	immunosupressió amb anticossos monoclonals
+immunotherapy	inmunoterapia	immunoteràpia
+adoptive immunotherapy	inmunoterapia adoptiva	immunoteràpia adoptiva
+passive immunotherapy	inmunoterapia pasiva	immunoteràpia passiva
+immune tolerance|immunological tolerance|immunotolerance	inmunotolerancia|tolerancia inmunitaria	tolerància immunitària|immunotolerància
+immunotoxin	inmunotoxina	immunotoxina
+immunoblot|immunoblotting	immunoblotting|inmunotransferencia sobre membranas	immunotransferència
+variability index	índice de variabilidad	índex de variabilitat
+infection	infección	infecció
+opportunistic infection	infección oportunista	infecció oportunista
+infiltration	infiltración	infiltració
+inflammation	inflamación	inflamació
+infliximab	infliximab	infliximab
+anaphylatoxin inactivator	inactivador de anafilatoxina	inhibidor d'anafilatoxina
+C1 inhibitor	inhibidor del factor del complemento C1	inhibidor del factor del complement C1
+integrin	integrina	integrina
+fluorescence enhancement	intensificación de la fluorescencia	intensificació de la fluorescència
+cognate interaction	interacción análoga|interacción cognada	interacció cognada|interacció anàloga|interacció recíproca
+interferon|IFN	interferón	interferó
+type I interferon	interferón de tipo I	interferó de tipus I
+interleukin	interleucina|interleuquina	interleucina
+reactive oxygen intermediate|ROI	intermediario de oxígeno reactivo|ROI	intermediari d'oxigen reactiu|ROI
+inulin	inulina	inulina
+ipilimumab	ipilimumab	ipilimumab
+isoagglutinin	isoaglutinina	isoaglutinina
+isoantibody	isoanticuerpo	isoanticòs
+isogeneic|isogenic|syngeneic|syngenic	isogénico|singénico	isogènic -a|singènic -a
+isoimmunization	isoinmunización	isoimmunització
+rhodamine isothiocyanate|tetramethyl rhodamine isothiocyanate|TRITC	isotiocianato de rodamina|TRITC	isotiocianat de rodamina|TRITC
+isotype	isotipo	isotip
+isotransplantation	isotrasplante	isotrasplantament
+immunoreceptor tyrosyne-based activation motif|ITAM	motivo de activación del inmunorreceptor vía tirosina|ITAM	motiu d'activació de l'immunoreceptor per tirosina|ITAM
+immunoreceptor tyrosyne-based inhibition motif|ITIM	motivo de inhibición del inmunorreceptor vía tirosina|ITIM	motiu d'inhibició de l'immunoreceptor per tirosina|ITIM
+coding joint	juntura codificadora	juntura codificadora
+lactoferrin	lactoferrina	lactoferrina
+lck	lck	lck
+lectin	lectina	lectina
+mannan-binding lectin|mannose-binding protein|MBL	lectina de unión a manosa|MBL	lectina d'unió a mannosa|MBL
+leflunomide	leflunomida	leflunomida
+lenalidomida	lenalidomida	lenalidomida
+lepromatous leprosy	lepra lepromatosa	lepra lepromatosa
+tuberculoid leprosy	lepra tuberculoide	lepra tuberculoide
+lerdelimumab	lerdelimumab	lerdelimumab
+leukaemia|leukemia	leucemia	leucèmia
+lymphoblastic leukemia	leucemia linfoblástica	leucèmia limfoblàstica
+chronic lymphocytic leukemia	leucemia linfocítica crónica	leucèmia limfocitària crònica
+myeloblastic leukemia	leucemia mieloblástica	leucèmia mieloblàstica
+leukoagglutinin	leucoaglutinina	leucoaglutinina
+passenger leukocyte	leucocito pasajero	leucòcit passatger
+leucocytic|leukocytic	leucocitario|leucocítico	leucocitari -ària|leucocític -a
+leukocytopenia|leukopenia	leucocitopenia|leucopenia	leucopènia|leucocitopènia
+leukocytosis	leucocitosis	leucocitosi
+leukotriene	leucotrieno	leucotriè
+LFA-1	LFA-1	LFA-1
+large granular lymphocyte|LGL	linfocito granular grande|LGL	limfòcit granular gros|LGL
+lymph	linfa	limfa
+lymphadenitis	linfadenitis	limfadenitis|limfoadenitis
+persistent generalized lymphadenopathy	linfadenopatía generalizada persistente	limfadenopatia generalitzada persistent
+lymphangiectasia	linfangiectasia	limfangièctasi|limfoangièctasi
+intestinal lymphangiectasia	linfangiectasia intestinal	limfangièctasi intestinal
+lymphatic	linfático	limfàtic -a
+lymphoblast	linfoblasto	limfoblast
+lymphokine	linfocina|linfoquina	limfocina
+lymphocyte	linfocito	limfòcit
+activated lymphocyte	linfocito activado	limfòcit activat
+autoreactive cell	linfocito autorreactivo	limfòcit autoreactiu
+immature B cell	célula B inmadura	limfòcit B immadur
+naive B lymphocyte|virgin B lymphocyte	linfocito B naive|linfocito B virgen	limfòcit B naïf|limfòcit B verge
+memory cell	célula de memoria	limfòcit de memòria
+resting lymphocyte	linfocito en reposo	limfòcit en repòs
+intraepithelial lymphocyte	linfocito intraepitelial	limfòcit intraepitelial
+naive lymphocyte|virgin lymphocyte	linfocito naive|linfocito no estimulado|linfocito virgen	limfòcit naïf|limfòcit verge
+sensitized lymphocyte	linfocito sensibilizado	limfòcit sensibilitzat
+CD4 T-cell	linfocito T CD4	limfòcit T CD4
+CD8 T-cell	linfocito T CD8	limfòcit T CD8
+helper T lymphocyte|helper T-cell|T-helper cell	linfocito T colaborador	limfòcit T col·laborador
+T delayed hypersensitivity cell	célula T de la hipersensibilidad retardada	limfòcit T de la hipersensibilitat retardada
+naive T lymphocyte|virgin T lymphocyte	linfocito T naive|linfocito T virgen	limfòcit T naïf|limfòcit T verge
+suppressor T lymphocyte|suppressor T-cell	célula T supresora|linfocito T supresor	limfòcit T supressor
+lymphocytic	linfocitario|linfocítico	limfocitari -ària|limfocític -a
+lymphocytopenia|lymphopenia	linfocitopenia|linfopenia	limfopènia|limfocitopènia
+lymphopoiesis	linfocitopoyesis|linfopoyesis	limfopoesi|limfocitopoesi
+lymphocytosis	linfocitosis	limfocitosi
+lymphocitotropic	linfocitotrópico	limfocitotròpic -a
+lymphoid	linfoide	limfoide
+lymphoma	linfoma	limfoma
+Burkitt lymphoma	linfoma de Burkitt	limfoma de Burkitt
+lymphomatosis	linfomatosis	limfomatosi
+cell line	línea celular	línia cel·lular
+lipopolysaccharide	lipopolisacárido	lipopolisacàrid
+liposome	liposoma	liposoma
+lysis	lisis	lisi
+bystander lysis		lisi per proximitat
+reactive lysis	lisis reactiva	lisi reactiva
+lysin	lisina	lisina
+lysosome	lisosoma	lisosoma
+primary lysosome	lisosoma primario	lisosoma primari
+secondary lysosome	lisosoma secundario	lisosoma secundari
+lysozym|lysozyme|muramidase	lisozima|muramidasa	lisozim|muramidasa
+hairpin|hairpin loop	horquilla|lazo en horquilla	llaç
+linkage	ligamiento	lligament
+ligand	ligando	lligand
+binding site|combining site	sitio de combinación|sitio de unión	lloc de combinació|lloc d'unió
+immunodominant site	sitio inmunodominante	lloc immunodominant
+privileged site	sitio privilegiado	lloc privilegiat
+lobenzarit	lobenzarit	lobenzarit
+locus	locus	locus
+minor histocompatibility locus	locus de histocompatibilidad menor	locus d'histocompatibilitat menor
+major histocompatibility locus		locus d'histocompatibilitat principal
+disseminated lupus erythematosus|systemic lupus erythematosus	lupus eritematoso diseminado|lupus eritematoso sistémico	lupus eritematós sistèmic|lupus eritematós disseminat
+lyn	lyn	lyn
+macrophage	macrófago	macròfag
+alveolar macrophage	macrófago alveolar	macròfag alveolar
+macroglobulinemia of Waldenström	macroglobulinemia de Waldenström	macroglobulinèmia de Waldenström
+MadCAM-1	MadCAM-1	MadCAM-1
+maturation of affinity	maduración de afinidad	maduració d'afinitat
+education of T cells|thymus cell education	maduración de los linfocitos T	maduració dels limfòcits T
+autoimmune disease	enfermedad autoinmunitaria	malaltia autoimmunitària
+organ-specific autoimmune disease	enfermedad autoinmunitaria específica de órgano|enfermedad autoinmunitaria organoespecífica	malaltia autoimmunitària específica d'òrgan|malaltia autoimmunitària organoespecífica
+Addison disease	enfermedad de Addison	malaltia d'Addison
+Behçet disease|Behçet syndrome	enfermedad de Behçet|síndrome de Behçet	síndrome de Behçet|malaltia de Behçet
+Duncan disease|Purtilo syndrome|X-linked lymphoproliferative syndrome|XLP	síndrome de Duncan|síndrome de Purtilo|XLP	síndrome limfoproliferativa lligada al cromosoma X|malaltia de Duncan|síndrome de Purtilo|XLP
+Graves disease	enfermedad de Graves	malaltia de Graves|tirotoxicosi
+Hodgkin disease	enfermedad de Hodgkin	malaltia de Hodgkin
+Kawasaki disease|mucocutaneous lymph node syndrome	enfermedad de Kawasaki|síndrome linfomucocutáneo	malaltia de Kawasaki|síndrome limfomucocutània
+graft versus host disease|GVH disease|GVHD	enfermedad del injerto contra el huésped	malaltia de l'empelt contra l'hoste
+heavy-chain disease	enfermedad de cadenas pesadas	malaltia de les cadenes pesants
+idiopathic thrombocytopenic purpura|Werlhof disease	enfermedad de Werlhof|inmunotrombocitopenia|púrpura trombocitopénica idiopática	púrpura trombocitopènica idiopàtica|malaltia de Werlhof
+serum sickness	enfermedad del suero	malaltia del sèrum
+chronic granulomatous disease	enfermedad granulomatosa crónica	malaltia granulomatosa crònica
+inflammatory bowel disease	enfermedad inflamatoria intestinal	malaltia inflamatòria intestinal
+mixed connective tissue disease	enfermedad mixta del tejido conjuntivo	malaltia mixta del teixit connectiu
+antiglomerular basement membrane disease	enfermedad por anticuerpos antimembrana basal glomerular	malaltia per autoanticossos anti-membrana basal glomerular
+immune complex disease	enfermedad por complejos inmunitarios	malaltia per immunocomplexos
+mucosa-associated lymphoid tissue|MALT	tejido linfoide asociado a las mucosas|MALT	teixit limfoide associat a les mucoses|MALT
+mantle|mantle zone	manto	mantell
+marker	marcador	marcador
+affinity labeling	marcaje de afinidad|marcaje por afinidad	marcatge d'afinitat
+mastocytoma	mastocitoma	mastocitoma
+myelin basic protein|MBP	proteína básica de mielina|MBP	proteïna bàsica de mielina|MBP
+conditioned medium	medio condicionado	medi condicionat
+HAT medium	medio HAT	medi HAT
+mediator	mediador	mediador
+bone marrow|medulla ossium	médula ósea|tuétano	medul·la òssia|moll de l'os
+medulla thymi|thymic medulla	médula del timo	medul·la tímica
+megakaryocyte|megalokaryocyte	megacariocito|megalocariocito	megacariòcit|megalocariòcit
+megaloblast	megaloblasto	megaloblast
+melphalan	melfalán	melfalan
+lien|spleen|splen	bazo	melsa
+immunological memory	memoria inmunitaria	memòria immunitària
+6-mercaptopurine|6-MP	6-mercaptopurina|6-MP	6-mercaptopurina|6-MP
+myasthenia gravis	miastenia grave|miastenia gravis	miastènia greu
+mycophenolate mophetil	micofenolato de mofetil	micofenolat de mofetil
+myelocyte	mielocito	mielòcit
+myeloid	mieloide	mieloide
+myeloid	mieloide	mieloide
+myeloma	mieloma	mieloma
+multiple myeloma	mieloma múltiple	mieloma múltiple
+plasmacytoma|plasmocytoma	mieloma solitario|plasmocitoma	plasmocitoma|mieloma solitari
+myelomatosis	mielomatosis	mielomatosi
+myeloperoxidase	mieloperoxidasa	mieloperoxidasa
+mielopoiesis|myelopoiesis	mielopoyesis	mielopoesi
+cell migration	migración celular	migració cel·lular
+molecular mimicry	mimetismo molecular	mimetisme molecular
+phorbol 12-myristate 13-acetate|PMA	12-miristato 13-acetato de forbol|PMA	12-miristat 13-acetat de forbol|PMA
+mitogen	mitógeno	mitogen
+mitogenetic|mitogenic	mitogenético	mitogen -ògena
+mizoribine	mizoribina	mizoribina
+antigenic modulation	modulación antigénica	modulació antigènica
+adhesion molecule	molécula de adhesión	molècula d'adhesió
+histocompatibility molecule	molécula de histocompatibilidad	molècula d'histocompatibilitat
+class I histocompatibility molecule|class I molecule	molécula de clase I	molècula d'histocompatibilitat de classe I
+class II histocompatibility molecule|class II molecule	molécula de clase II	molècula d'histocompatibilitat de classe II
+membrane molecule	molécula de membrana	molècula de membrana
+monoblast	monoblasto	monoblast
+monokine	monocina|monoquina	monocina
+monocyte	monocito	monòcit
+monoclonal	monoclonal	monoclonal
+univalent	univalente	monovalent
+motif	motivo	motiu
+polyvalent	polivalente	multivalent
+muramyl dipeptide	muramil-dipéptido	muramil-dipèptid
+murid|murine	múrido|murino	murí -ina
+muromonab-CD3	muromonab-CD3	muromonab-CD3
+mutation	mutación	mutació
+somatic mutation	mutación somática	mutació somàtica
+natalizumab	natalizumab	natalizumab
+necrosis	necrosis	necrosi
+nephelometry	nefelometría	nefelometria
+neoantigen	neoantígeno	neoantigen
+neutralization	neutralización	neutralització
+phage neutralization	neutralización del fago|neutralización fágica	neutralització fàgica
+neutrophil	neutrófilo	neutròfil
+neutropenia	neutropenia	neutropènia
+autoimmune neutropenia	neutropenia autoinmunitaria	neutropènia autoimmunitària
+tetrazolium nitroblue	nitroazul de tetrazolio	nitroblau de tetrazole
+non responder|non-responder	no responsivo	no responsiu -iva
+rheumatoid nodule	nódulo reumatoideo	nòdul reumatoide
+oligoclonal	oligoclonal	oligoclonal
+opsonin	opsonina	opsonina
+opsonization	opsonización	opsonització
+lymphoid organ	órgano linfoide	òrgan limfoide
+central lymphoid organ|primary lymphoid organ	órgano linfoide central|órgano linfoide primario	òrgan limfoide primari|òrgan limfoide central
+peripheral lymphoid organ|secondary lymphoid organ	órgano linfoide periférico|órgano linfoide secundario	òrgan limfoide secundari|òrgan limfoide perifèric
+experimental allergic orchitis	orquitis alérgica experimental	orquitis al·lèrgica experimental
+orthotopic	ortotópico	ortotòpic -a
+osteoblast	osteoblasto	osteoblast
+osteoclast	osteoclasto	osteoclast
+otelixizumab	otelixizumab	otelixizumab
+palivizumab	palivizumab	palivizumab
+polyarteritis nodosa|PAN	poliarteritis nudosa|poliarteritis nudosa clásica|PAN	poliarteritis nodosa|poliarteritis nodosa clàssica|PAN
+pancytopenia	pancitopenia	pancitopènia
+panning	panning	pàning
+papain	papaína	papaïna
+immune paralysis	parálisis inmune	paràlisi immunitària
+paraprotein	paraproteína	paraproteïna
+paraproteinemia	paraproteinemia	paraproteïnèmia
+paratope	paratopo	paràtop
+pathogen	patógeno	patogen -ògena
+polymerase chain reaction|PCR	reacción en cadena por la polimerasa|PCR	reacció en cadena per la polimerasa|PCR
+peginterferon alfa-2a	peginterferón alfa-2a	peginterferó alfa-2a
+pemphigus	pénfigo	pèmfig
+pemphigoid	penfigoide	pemfigoide
+pentraxin	pentraxina	pentraxina
+pepsin	pepsina	pepsina
+agonist peptide	péptido agonista	pèptid agonista
+antagonist peptide	péptido antagonista	pèptid antagonista
+chemotactic peptide	péptido quimiotáctico	pèptid quimiotàctic
+chronic graft failure|chronic rejection	pérdida crónica del injerto|rechazo crónico	pèrdua crònica de l'empelt|rebuig crònic
+perforin	perforina	perforina
+peripolesis	peripolesia|peripolesis	peripolesi
+peroxidase	peroxidasa	peroxidasa
+peroxisome	peroxisoma	peroxisoma
+pimecrolimus	pimecrolimús	pimecrolimús
+pinocytosis	pinocitosis	pinocitosi
+pyogenic	piógeno	piogen -ògena
+pyrogen	pirógeno	piretogen
+endogenous pyrogen	pirógeno endógeno	piretogen endogen
+pyroglobulin	piroglobulina	piroglobulina
+protein kinase A|PKA	proteína cinasa A|PKA	proteïna-cinasa A|PKA
+protein kinase B|PKB	proteína cinasa B|PKB	proteïna-cinasa B|PKB
+protein kinase C|PKC	proteína cinasa C|PKC	proteïna-cinasa C|PKC
+Peyer patch	placa de Peyer	placa de Peyer
+platelet|thrombocyte	plaqueta|trombocito	plaqueta|trombòcit
+plasma	plasma	plasma
+plerixafor	plerixafor	plerixafor
+primed lymphocyte test|PLT	prueba de los linfocitos estimulados|PLT	prova dels limfòcits encebats|PLT
+polyclonal	policlonal	policlonal
+polymyositis	polimiositis	polimiositis|polimiïtis
+restriction fragment length polymorphism|RFLP	polimorfismo en la longitud de los fragmentos de restricción|RFLP	polimorfisme en la longitud dels fragments de restricció|RFLP
+gene polymorphism	polimorfismo genético	polimorfisme genètic
+polymorphonuclear	polimorfonuclear	polimorfonuclear
+acute idiopathic polyneuritis|Guillain-Barré syndrome|idiopathic polyneuritis	polineuritis idiopática aguda|polirradiculoneuritis inflamatoria idiopática|síndrome de Guillain-Barré	polineuropatia idiopàtica aguda|polineuritis idiopàtica aguda|síndrome de Guillain-Barré
+red pulp	pulpa roja	polpa vermella
+tolerance enhancement	potenciación de la tolerancia	potenciació de la tolerància
+tumor enhancement	intensificación tumoral	potenciació tumoral
+precipitation	precipitación	precipitació
+antigen presentation	presentación antigénica	presentació antigènica
+first signal	primera señal	primer senyal
+antigen processing	procesamiento antigénico	processament antigènic
+promonocyte	promonocito	promonòcit
+prostaglandin	prostaglandina	prostaglandina
+proteasome	proteasoma	proteasoma
+protein A	proteína A	proteïna A
+GPI-linked protein	proteína anclada por GPI	proteïna ancorada per GPI
+antiviral protein	proteína antiviral|proteína antivírica	proteïna antivírica
+C-reactive protein	proteína C reactiva	proteïna C reactiva
+membrane cofactor protein	proteína cofactor de membrana	proteïna cofactor de membrana
+Bence-Jones protein	proteína de Bence-Jones	proteïna de Bence-Jones
+acute phase protein	proteína de fase aguda	proteïna de fase aguda
+myeloma protein	proteína del mieloma	proteïna del mieloma
+protein G	proteína G	proteïna G
+G protein	proteína G	proteïna G
+binding protein	proteína de enlace	proteïna lligadora
+S protein|vitronectin	proteína S|vitronectina	vitronectina|proteïna S
+signal transducer and activator of transcription	transductor de señales y activador de la transcripción	transductor de senyals i activador de la transcripció|proteïna STAT
+proteinogram	proteinograma	proteïnograma
+competitive binding assay	análisis de unión competitiva	prova d'unió competitiva
+antiglobulin test|Coombs test	prueba de Coombs|prueba de la antiglobulina	prova de Coombs
+direct Coombs test	prueba de Coombs directa|prueba de la antiglobulina directa	prova de Coombs directa
+indirect Coombs test	prueba de Coombs indirecta|prueba de la antiglobulina indirecta	prova de Coombs indirecta
+Farr assay|Farr test	ensayo de Farr|prueba de Farr	prova de Farr
+complement fixation test	prueba de fijación de complemento	prova de fixació de complement
+NBT reduction test|NBT test|nitroblue tetrazolium test	prueba del NBT|prueba del nitroazul de tetrazolio	prova del nitroblau de tetrazole|prova de l'NBT
+prick test	prueba de la picadura|puntura	prova de la punxada
+tuberculin test	prueba de la tuberculina	prova de la tuberculina
+neutralization test	prueba de neutralización	prova de neutralització
+virus neutralization test	prueba de neutralización de virus	prova de neutralització vírica
+precipitin reaction|precipitin test	reacción de precipitinas	prova de precipitines
+TUNEL assay	método TUNEL|técnica de TUNEL	prova de TUNEL
+patch test	prueba del parche	prova del pegat
+cross-match|cross-matching	prueba cruzada	prova encreuada
+radioallergosorbent test|RAST	prueba radioalergosorbente|test radioalergoabsorbente|RAST	prova radioal·lergosorbent|RAST
+radioimmunosorbent test|RIST	prueba radioinmunosorbente|test radioinmunoabsorbente|RIST	prova radioimmunosorbent|RIST
+prozone	prozona	prozona
+pseudogene	seudogén	pseudogèn
+pseudoglobulin	seudoglobulina	pseudoglobulina
+psoriasis	psoriasis	psoriasi
+purine-nucleoside phosphorylase	purina-nucleósido-fosforilasa	purina-nucleòsid-fosforilasa
+Schönlein-Henoch purpura	púrpura de Schönlein-Henoch	púrpura de Schönlein-Henoch
+chimera	quimera	quimera
+chimerism	quimerismo	quimerisme
+chemokine	quimiocina|quimioquina	quimiocina
+chemokinesis	quimiocinesis	quimiocinesi
+chemotactic	quimiotáctico	quimiotàctic
+chemotaxis	quimiotaxis	quimiotaxi|quimiotactisme
+radioimmunoassay|RIA	radioinmunoensayo|RIA	radioimmunoassaig|RIA
+radioimmunoelectrophoresis	radioinmunoelectroforesis	radioimmunoelectroforesi
+rapamycin|sirolimus	rapamicina|sirolimus	rapamicina|sirolimús
+B/B rat	rata B/B	rata B/B
+allophenic mouse	ratón alofénico	ratolí al·lofènic
+moth-eaten mouse	ratón apolillado	ratolí arnat
+germ-free mouse	ratón aséptico|ratón libre de gérmenes	ratolí asèptic
+B mouse	ratón B	ratolí B
+beige mouse	ratón beis	ratolí beix
+conventional mouse	ratón convencional	ratolí convencional
+domesticated mouse	ratón domesticado	ratolí domesticat
+allocated mouse|housed mouse	ratón estabulado	ratolí estabulat
+knockout mouse	ratón knock out	ratolí genoanul·lat
+knockdown mouse	ratón knock down	ratolí genominvat
+knock-in mouse	ratón knock in	ratolí genomodificat
+gnotobiotic mouse	ratón gnotobiótico|ratón gnotogénico	ratolí gnotobiòtic
+wild mouse	ratón no modificado	ratolí no modificat
+NOD mouse	ratón NOD	ratolí NOD
+New Zealand mouse	ratón Nueva Zelanda	ratolí Nova Zelanda
+nu/nu mouse|nude mouse	ratón desnudo|ratón lampiño	ratolí nu
+wild mouse	ratón salvaje	ratolí salvatge
+SCID mouse	ratón SCID	ratolí SCID
+tetraparental mouse	ratón tetraparental	ratolí tetraparental
+allergic reaction|allergic response	reacción alérgica|respuesta alérgica	reacció al·lèrgica|resposta al·lèrgica
+anaphylactoid reaction	reacción anafilactoide	reacció anafilactoide
+antigen-antibody reaction	reacción antígeno-anticuerpo	reacció antigen-anticòs
+Arthus reaction	reacción de Arthus	reacció d'Arthus
+reaction of identity	reacción de identidad	reacció d'identitat
+reaction of partial identity	reacción de identidad parcial	reacció d'identitat parcial
+reaction of non-identity	reacción de desigualdad	reacció de desigualtat
+acute phase reaction|acute phase response	reacción de fase aguda|respuesta de fase aguda	reacció de fase aguda|resposta de fase aguda
+cutaneous basophil hypersensitivity|Jones-Mote reaction	hipersensibilidad basófila cutánea|reacción de Jones-Mote	reacció de Jones-Mote
+graft versus host reaction|GVH reaction|GVHR	reacción del injerto contra el huésped	reacció de l'empelt contra l'hoste
+lepromin reaction|Mitsuda reaction	reacción de la lepromina|reacción de Mitsuda	reacció de Mitsuda|reacció de la lepromina
+Mantoux test	reacción de Mantoux	reacció de Mantoux
+precipitation reaction	reacción de precipitación	reacció de precipitació
+cross-reaction	reacción cruzada	reacció encreuada
+transfusion reaction	reacción transfusional	reacció hemolítica transfusional|reacció transfusional
+cross-reactivity	reactividad cruzada	reactivitat encreuada
+reagin	reagina	reagina
+graft rejection|rejection	rechazo	rebuig
+acute rejection|cellular rejection	rechazo agudo	rebuig agut
+hyperacute rejection	rechazo hiperagudo	rebuig hiperagut
+first-set phenomenon|first-set rejection	rechazo primario	rebuig primari
+second-set phenomenon|second-set rejection	rechazo secundario	rebuig secundari
+plasma exchange|plasmapheresis	plasmaféresis|recambio plasmático	recanvi plasmàtic
+receptor	receptor	receptor
+antigen receptor	receptor antigénico	receptor antigènic
+Fc receptor	receptor de Fc|receptor Fc	receptor d'Fc
+poly-Ig receptor	receptor de inmunoglobulinas poliméricas|receptor de poli-Ig	receptor d'immunoglobulines polimèriques|receptor de poli-Ig
+cytokine receptor	receptor de citocinas	receptor de citocina
+complement receptor	receptor de complemento	receptor de complement
+C1q receptor	receptor de C1q	receptor de complement del factor C1q
+C3a receptor	receptor de C3a	receptor de complement del factor C3a
+C5a receptor	receptor de C5a	receptor de complement del factor C5a
+pre-B cell receptor	receptor de células pre-B	receptor de les cèl·lules pre-B
+homing receptor	receptor de alojamiento|receptor de asentamiento	receptor de localització
+T-cell receptor|TCR	receptor de linfocitos T|TCR	receptor dels limfòcits T|TCR
+lymphocyte recirculation	recirculación linfocítica	recirculació leucocitària
+recruitment	reclutamiento	reclutament
+recombination	recombinación	recombinació
+antigenic recognition	reconocimiento antigénico	reconeixement antigènic
+linked recognition|MHC associative recognition|MHC restriction	reconocimiento ligado|restricción por el MHC	restricció per l'MHC|reconeixement restringit per l'MHC
+D region	región D	regió D
+switch region	región de cambio	regió de canvi
+frame region|framework region	región armazón|región variable de entramado	regió estructural
+Fc region	región Fc	regió Fc
+hinge region	región bisagra	regió frontissa
+hypervariable region	región hipervariable	regió hipervariable
+HLA-D region	región HLA-D	regió HLA-D
+J region	región J	regió J
+challenge|reimmunization	reinmunización	reimmunització
+gene rearrangement	reordenamiento génico	reordenament gènic
+repertoire	repertorio	repertori
+Scatchard plot	representación de Scatchard	representació de Scatchard
+responder	responsivo	responsiu -iva
+humoral immune response	respuesta inmunitaria humoral	resposta immunitària humoral|resposta humoral
+immune response	respuesta inmunitaria	resposta immunitària
+cellular immune response	respuesta inmunitaria celular	resposta immunitària cel·lular
+specific immune response	respuesta inmunitaria específica	resposta immunitària específica
+non-specific immune response	respuesta inmunitaria inespecífica	resposta immunitària inespecífica
+primary immune response	respuesta inmunitaria primaria	resposta immunitària primària
+secondary immune response	respuesta inmunitaria secundaria	resposta immunitària secundària
+restitope	restitopo	restítop
+ricin	ricina	ricina
+rilonacept	rilonacept	rilonacept
+allergic rhinitis|extrinsic rhinitis	rinitis alérgica|rinitis extrínseca	rinitis al·lèrgica|rinitis extrínseca
+non-seasonal allergic rhinitis|perennial rhinitis	rinitis alérgica no estacional|rinitis perenne	rinitis al·lèrgica perenne
+rituximab	rituximab	rituximab
+rolling	rodamiento	rodolament
+rosette	roseta	roseta
+E rosette|E-rosette	roseta E	roseta E
+EA rosette|EA-rosette	roseta EA	roseta EA
+EAC rosette|EAC-rosette	roseta EAC	roseta EAC
+antiphospholipid syndrome|APS	síndrome antifosfolipídico|SAF	síndrome antifosfolipídica|SAF
+Kaposi sarcoma	sarcoma de Kaposi	sarcoma de Kaposi
+DJ gene segment	segmento génico DJ	segment gènic DJ
+second signal	segunda señal	segon senyal|senyal coestimulador
+negative selection	selección negativa	selecció negativa
+positive selection	selección positiva	selecció positiva
+selectin	selectina	selectina
+sensibilisation|sensitisation|sensitization	sensibilización	sensibilització
+priming	sensibilización	sensibilització
+coating	sensibilización	sensibilització
+signal	señal	senyal
+fluorescence activated cell sorting	separación celular por citometría de flujo	separació cel·lular per citometria de flux|separació de cèl·lules activada per fluorescència
+seroconversion	seroconversión	seroconversió
+serology	serología	serologia
+serotherapy	seroterapia	seroteràpia
+serotype|serovar	serotipo	serotip|serotipus|serovar
+serpin	serpina	serpina
+serum	suero	sèrum
+antilymphocyte serum	suero antilinfocítico	sèrum antilimfocitari
+marginal sinus	seno marginal	si marginal|si subcapsular
+acquired immunodeficiency syndrome	sida|síndrome de inmunodeficiencia adquirida	sida|síndrome d'immunodeficiència adquirida
+CREST syndrome	síndrome CREST	síndrome CREST
+hyper IgE syndrome|Job syndrome	síndrome de hiperglobulinemia de IgE|síndrome de Job	síndrome d'hiperglobulinèmia d'IgE|síndrome d'hiper-IgE|síndrome de Job
+X-linked hyper IgM syndrome	síndrome de hiper IgM ligado al sexo	síndrome d'hiperglobulinèmia d'IgM lligada a X|síndrome d'hiper-IgM lligada a X
+Chédiak-Higashi syndrome	síndrome de Chédiak-Higashi	síndrome de Chédiak-Higashi
+Felty syndrome	síndrome de Felty	síndrome de Felty
+Goodpasture syndrome	síndrome de Goodpasture	síndrome de Goodpasture
+Nijmegen breakage syndrome	síndrome de Nijmegen|síndrome de Nijmegen de rotura cromosómica	síndrome de ruptura de Nijmegen|síndrome de Nijmegen
+Reiter disease|Reiter syndrome	enfermedad de Reiter|síndrome de Reiter	síndrome de Reiter
+Sjögren syndrome	síndrome de Sjögren	síndrome de Sjögren
+overlap syndrome	síndrome de superposición	síndrome de superposició
+paraneoplastic autoimmune syndrome	síndrome paraneoplásico autoinmune	síndrome paraneoplàstica autoimmunitària
+polyglandular autoimmune syndrome	síndrome poliglandular autoinmune	síndrome poliglandular autoimmunitària
+kinin system	sistema de las cininas	sistema de les cinines
+immune system	sistema inmunitario	sistema immunitari
+lymphatic system|systema lymphaticum	sistema linfático	sistema limfàtic
+lymphoid system	sistema linfoide	sistema limfoide
+mononuclear phagocyte system|reticuloendothelial system	sistema mononuclear fagocítico|sistema reticuloendotelial	sistema mononuclear fagocític|sistema reticuloendotelial
+strain	cepa	soca
+coisogenic strain	cepa coisogénica	soca coisogènica
+congenic strain	cepa congénica	soca congènica
+inbred strain	cepa consanguínea	soca consanguínia
+isogenic strain	cepa isogénica	soca isogènica
+mutant strain	cepa mutante	soca mutant
+pure strain	cepa pura	soca pura
+recombinant strain	cepa recombinante	soca recombinant
+recombinant inbred strain	cepa recombinante consanguínea	soca recombinant consanguínia
+peptide-binding cleft|peptide-binding pocket	hendidura de unión al péptido	solc d'unió al pèptid
+hybridization probe	sonda de hibridación	sonda d'hibridació
+slow reacting substance A|slow reacting substance of anaphylaxis|SRS-A	sustancia anafilàctica de reacción lenta|SRS-A	substància d'anafilaxi de reacció lenta|SRS-A
+immunoglobulin subclass	subclase de inmunoglobulina	subclasse d'immunoglobulina
+subset	subpoblación	subpoblació
+Th1 subset	subpoblación Th1	subpoblació Th1
+Th2 subset	subpoblación Th2	subpoblació Th2
+superantigen	superantígeno	superantigen
+Ig superfamily|immunoglobulin superfamily	superfamilia de las inmunoglobulinas	superfamília de les immunoglobulines
+thalidomide	talidomida	talidomida
+transporter associated with antigen processing|TAP	transportador asociado al procesamiento antigénico|TAP	transportador associat amb el processament antigènic|TAP
+tapasin	tapasina	tapasina
+rosette test|rosettes technique|rosetting	roseteo	tècnica de rosetes
+sandwich technique	técnica de sándwich	tècnica de sandvitx
+lymphatic tissue|lymphoid tissue	tejido linfático|tejido linfoide	teixit limfoide|teixit limfàtic
+side-chain theory	teoría de la cadena lateral	teoria de la cadena lateral
+germline diversity theory	teoría de la diversidad de la línea germinal	teoria de la diversitat de la línia germinal
+clonal selection theory	teoría de la selección clonal	teoria de la selecció clonal
+idiotype network theory|network theory	teoría de la red idiotípica|teoría reticular de Jerne	teoria de la xarxa idiotípica
+instructive theory	teoría instructiva	teoria instructiva
+selective theory	teoría selectiva	teoria selectiva
+teplizumab	teplizumab	teplizumab
+thymus	timo	timus|tim
+thymectomy	timectomía	timectomia
+thymocyte	timocito	timòcit
+thymoma	timoma	timoma
+thymosin	timosina	timosina
+tissue typing	tipificación tisular	tipificació tissular
+experimental autoimmune thyroiditis	tiroiditis autoinmunitaria experimental	tiroïditis autoimmunitària experimental
+chronic lymphocytic thyroiditis|Hashimoto thyroiditis	tiroiditis crónica autoinmunitaria|tiroiditis de Hashimoto	tiroïditis de Hashimoto|tiroïditis limfocitària crònica
+tyrosine kinase	tirosina cinasa	tirosina-cinasa
+titer|titre	título	títol
+tocilizumab	tocilizumab	tocilizumab
+central tolerance	tolerancia central	tolerància central
+high-dose tolerance|high-zone tolerance	tolerancia de dosis alta|tolerancia de zona alta	tolerància de zona alta
+low-dose tolerance|low-zone tolerance	tolerancia de dosis baja|tolerancia de zona baja	tolerància de zona baixa
+split tolerance	desdoblamiento de la tolerancia	tolerància dissociada
+induced tolerance	tolerancia inducida	tolerància induïda
+peripheral tolerance	tolerancia periférica	tolerància perifèrica
+tolerization	tolerización	tolerització
+tolerogen	tolerógeno	tolerogen
+tolerogenic	tolerogénico	tolerogen -ògena
+tolmetin	tolmetina	tolmetina
+tositumomab	tositumomab	tositumomab
+toxin	toxina	toxina
+transcytosis	transcitosis	transcitosi
+II transcobalamin	transcobalamina II	transcobalamina II
+signal transduction	transducción de señales	transducció de senyals
+transfection	transfección	transfecció
+transfectoma	transfectoma	transfectoma
+blot|blotting|transfer	transferencia	transferència
+adoptive transfer	transferencia adoptiva	transferència adoptiva
+northern blot|northern blotting|northern transfer	transferencia Northern	transferència d'RNA|transferència Northern
+Southern blot|Southern blotting|Southern transfer	transferencia Southern	transferència de DNA|transferència Southern
+western blot|western blotting|western transfer	transferencia Western	transferència de proteïnes|transferència Western
+immune transfer	transferencia inmunitaria	transferència immunitària
+lymphocyte transformation	transformación linfocítica	transformació limfocitària
+transgenic	transgénico	transgènic -a
+carrier	portador|transportador	transportador
+transplantation	trasplante	trasplantament|trasplantació
+thrombocytopenia	trombocitopenia	trombocitopènia
+thromboxane	tromboxano	tromboxà
+tuberculin	tuberculina	tuberculina
+tumor|tumour	tumor	tumor
+ubenimex	ubenimex	ubenimex
+colony-forming unit|CFU	unidad formadora de colonias|UFC	unitat formadora de colònies|UFC
+ustekinumab	ustekinumab	ustekinumab
+vaccinia	vaccinia	vaccí
+vaccine	vacuna	vacuna|vaccí
+progressive vaccinia|vaccinia gangrenosa	vaccinia gangrenosa|vaccinia progresiva	vaccí gangrenós|vaccí progressiu
+generalized vaccinia	vaccinia generalizada	vaccí generalitzat
+vaccination	vacunación	vacunació|vaccinació
+attenuated vaccine	vacuna atenuada	vacuna atenuada
+inactivated vaccine	vacuna inactivada	vacuna inactivada
+polyvalent vaccine	vacuna polivalente	vacuna polivalent
+prophylactic vaccine	vacuna profiláctica	vacuna profilàctica
+therapeutic vaccine	vacuna terapéutica	vacuna terapèutica
+antibody valence|antibody valency	valencia del anticuerpo	valència de l'anticòs
+antigen valence|antigen valency	valencia antigénica	valència de l'antigen
+idiotypic variation	variación idiotípica	variació idiotípica
+isotypic variation	variación isotípica	variació isotípica
+variolation	variolación|variolización	variolització|variolació
+lymph vessel|lymphatic vessel	vaso linfático	vas limfàtic
+systemic vasculitis	vasculitis sistémica	vasculitis sistèmica|vasculitis sistèmica primària
+vector	vector	vector
+expression vector	vector de expresión	vector d'expressió
+cloning vector	vector de clonación	vector de clonatge
+smallpox	viruela	verola
+alternative complement pathway|alternative pathway	vía alternativa	via alternativa
+classic complement pathway|classical pathway	vía clásica	via clàssica
+lectin pathway	vía de la lectina	via de la lectina
+JAK-STAT pathway	vía de JAK-STAT	via JAK-STAT
+lytic pathway	vía lítica	via lítica
+immune surveillance|immunological surveillance	vigilancia inmunitaria	vigilància immunitària
+AIDS virus|human immunodeficiency virus|HIV	virus de la inmunodeficiencia humana|HIV|VIH	virus de la immunodeficiència humana|VIH
+virulent	virulento	virulent -a
+very late antigen|VLA	antígeno de expresión muy tardía|VLA	VLA
+voclosporin	voclosporina	voclosporín
+xenogenic	xenogénico|xenógeno	xenogènic -a
+anaphylactic shock	choque anafiláctico	xoc anafilàctic
+anaphylactoid shock	choque anafilactoide	xoc anafilactoide
+endotoxic shock|endotoxin shock	choque endotóxico|choque por endotoxinas	xoc per endotoxines
+septic shock	choque séptico	xoc sèptic
+zap-70	zap-70	zap-70
+zymosan	cimosán|zimosán	zimosan
+light zone	zona clara	zona clara
+dark zone	zona oscura	zona fosca
+marginal zone	zona marginal	zona marginal
